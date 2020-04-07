@@ -1,11 +1,11 @@
 module.exports = {
     title: 'Grand Central Apartments - Rules and Manual',
     tagline: 'Last updated 05/04/2020',
-    url: 'https://your-docusaurus-test-site.com',
+    url: 'https://batmanian.github.io/',
     baseUrl: '/',
     favicon: 'img/favicon.ico',
-    organizationName: 'facebook', // Usually your GitHub org/user name.
-    projectName: 'docusaurus', // Usually your repo name.
+    organizationName: 'Batmanian', // Usually your GitHub org/user name.
+    projectName: 'GrandDocs', // Usually your repo name.
     themeConfig: {
         navbar: {
             title: 'Grand Central Apartments',
@@ -23,6 +23,12 @@ module.exports = {
                     to: 'manual/manual',
                     activeBasePath: 'manual',
                     label: 'Manual',
+                    position: 'left'
+                },
+                {
+                    to: 'rules/definitions',
+                    activeBasePath: 'docs',
+                    label: 'Rules2',
                     position: 'left'
                 },
                 //{
@@ -59,7 +65,7 @@ module.exports = {
                 //    ],
                 //},
                 //{
-                //    title: 'Social',
+                //    title: 'Rules',
                 //    items: [{
                 //            label: 'Blog',
                 //            to: 'blog',
@@ -84,7 +90,7 @@ module.exports = {
             {
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
-                    editUrl: 'https://github.com/facebook/docusaurus/edit/master/website/',
+                    editUrl: 'https://github.com/Batmanian/GrandDocs/blob/master/GrandDocs/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
