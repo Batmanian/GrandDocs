@@ -1,7 +1,7 @@
 module.exports = {
     title: 'Grand Central Apartments - Rules and Manual',
     tagline: 'Last updated 05/04/2020',
-    url: 'https://batmanian.github.io/',
+    url: 'https://batmanian.github.io/GrandDocs',
     baseUrl: '/',
     favicon: 'img/favicon.ico',
     organizationName: 'Batmanian', // Usually your GitHub org/user name.
@@ -14,21 +14,15 @@ module.exports = {
                 src: 'img/motif.png',
             },
             links: [{
-                    to: 'docs/definitions',
-                    activeBasePath: 'rules',
+                    to: '/docs/definitions',
+                    activeBasePath: 'docs',
                     label: 'Rules',
                     position: 'left',
                 },
                 {
-                    to: 'manual/manual',
+                    to: '/docs/doc1',
                     activeBasePath: 'manual',
                     label: 'Manual',
-                    position: 'left'
-                },
-                {
-                    to: 'rules/definitions',
-                    activeBasePath: 'docs',
-                    label: 'Rules2',
                     position: 'left'
                 },
                 //{
@@ -65,7 +59,7 @@ module.exports = {
                 //    ],
                 //},
                 //{
-                //    title: 'Rules',
+                //    title: 'Social',
                 //    items: [{
                 //            label: 'Blog',
                 //            to: 'blog',
@@ -90,7 +84,7 @@ module.exports = {
             {
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
-                    editUrl: 'https://github.com/Batmanian/GrandDocs/blob/master/GrandDocs/',
+                    editUrl: 'https://github.com/facebook/docusaurus/edit/master/website/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
