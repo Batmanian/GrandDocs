@@ -1,8 +1,8 @@
 module.exports = {
     title: 'Grand Central Apartments - Rules and Manual',
     tagline: 'Last updated 05/04/2020',
-    url: 'https://batmanian.github.io/GrandDocs',
-    baseUrl: '',
+    url: 'https://batmanian.github.io/GrandDocs ',
+    baseUrl: '/',
     favicon: 'img/favicon.ico',
     organizationName: 'Batmanian', // Usually your GitHub org/user name.
     projectName: 'GrandDocs', // Usually your repo name.
@@ -20,7 +20,7 @@ module.exports = {
                     position: 'left',
                 },
                 {
-                    to: '/docs/doc1',
+                    to: '/docs/manual',
                     activeBasePath: 'manual',
                     label: 'Manual',
                     position: 'left'
@@ -75,7 +75,7 @@ module.exports = {
                 //    ],
                 //},
             ],
-            copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+            copyright: `Copyright © ${new Date().getFullYear()}`,
         },
     },
     presets: [
