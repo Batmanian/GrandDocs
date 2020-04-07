@@ -2,7 +2,7 @@ module.exports = {
     title: 'Grand Central Apartments - Rules and Manual',
     tagline: 'Last updated 05/04/2020',
     url: 'https://batmanian.github.io/GrandDocs',
-    baseUrl: '/',
+    baseUrl: '',
     favicon: 'img/favicon.ico',
     organizationName: 'Batmanian', // Usually your GitHub org/user name.
     projectName: 'GrandDocs', // Usually your repo name.
@@ -84,7 +84,7 @@ module.exports = {
             {
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
-                    editUrl: 'https://github.com/facebook/docusaurus/edit/master/website/',
+                    editUrl: 'https://github.com/facebook/docusaurus/blob/master/website/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
