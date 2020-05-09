@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://batmanian.github.io/GrandDocs/"
 languageCode = "en-au"
 title = "Documentation site"
 theme = "docsy"
