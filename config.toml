@@ -1,5 +1,5 @@
 baseURL = "https://batmanian.github.io/GrandDocs/"
 languageCode = "en-au"
 title = "Documentation site"
-theme = "docsy"
+theme = "ace"
 publishdir = "docs"
