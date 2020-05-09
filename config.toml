@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-au"
+title = "Documentation site"
+theme = "docsy"
+publishdir = "docs"

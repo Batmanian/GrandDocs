@@ -1,0 +1,920 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation site – Posts</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Documentation site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Sat, 09 May 2020 21:11:42 +1000</lastBuildDate>
+    
+	  <atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Posts: My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Sat, 09 May 2020 21:11:42 +1000</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: 1. Definitions and Interpretation</title>
+      <link>http://example.org/posts/1definitions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/1definitions/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;11definitions&#34;&gt;1.1	Definitions&lt;/h2&gt;
+&lt;p&gt;In these Rules:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Access Token&lt;/strong&gt; means a device that provides access to or within the Building, including the car park, and that contains security credentials, access privileges, and identifies the user.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Building&lt;/strong&gt; means a building as defined in the Owners Corporations Act 2006 (VIC) excluding the car park and swimming pool.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Executive Director&lt;/strong&gt; means the Executive Director of Heritage Victoria.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GST&lt;/strong&gt; means a goods and services tax, consumption tax, value added tax, retail turnover tax or a tax of a similar nature.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Heritage Council&lt;/strong&gt; means the Heritage Council established under the Heritage Act 1995 (VIC) s 6.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hotel&lt;/strong&gt; means the business of a hotel operated by the owners of Hotel Lots and also operated from various Lots used for hotel guests. The Hotel for the time being has the benefit of any exclusive area or any special privileges areas granted pursuant to these rules and any other Lots or areas in the Building which the Hotel or a related corporation has a beneficial interest or right to occupy or use may be used for the business of management, conducting of a business of a hotel and letting Lots, servicing of rooms, regulating car parking, the business of a gymnasium, conducting of restaurant, a night club and bar business, business centre, conference room, function rooms, room service, laundry and dry cleaning service, discotheque and bar, conducting the business of an operator of a car park, arranging and controlling security for the Hotel, conducting the business and controlling all visual and audio, electronic, optical, audio and telephonic services, to from and inside the Lots forming part of the Hotel and any activity associated with these businesses.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hotel Lots&lt;/strong&gt; means the owner or owners of Lots 101A, 102A, 127, 128, 130, 132-137 whilst ever these Lots are used as part of the business of the Hotel.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Plan&lt;/strong&gt; means Plan of Subdivision PS331362S.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Primary Payment&lt;/strong&gt; means any payment or consideration given by a Lot Owner or Occupier to the Owners Corporation for any levy or other money or consideration payable or to be given by a Lot Owner or Occupier to the Owners Corporation in connection with any supply of any goods and services.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Registered Place&lt;/strong&gt; means all the land in the Plan which was formerly comprised in Certificate of Title Volume 9808 Folio 878.&lt;/p&gt;
+&lt;h2 id=&#34;12interpretation&#34;&gt;1.2	Interpretation&lt;/h2&gt;
+&lt;p&gt;Unless the context otherwise requires:&lt;/p&gt;
+&lt;p&gt;(a)	headings are for convenience of reference only and do not affect interpretation;&lt;/p&gt;
+&lt;p&gt;(b)	words importing the singular include the plural and vice versa;&lt;/p&gt;
+&lt;p&gt;(c)	a reference to a person includes any company, partnership, joint venture or other entity;&lt;/p&gt;
+&lt;p&gt;(d)	a reference to a thing includes part of that thing;&lt;/p&gt;
+&lt;p&gt;(e)	a reference to a document includes an amendment or supplement to, or replacement or novation of that document;&lt;/p&gt;
+&lt;p&gt;(f)	a reference to Laws includes all Laws replacing them and a reference to a statute includes all regulations, proclamations, ordinances, by-laws and other legislative instruments made under that statute; and&lt;/p&gt;
+&lt;p&gt;(g)	these Rules operate in addition to any obligation or responsibility imposed on Lot Owners under any Law or common law or in equity.&lt;/p&gt;
+&lt;h2 id=&#34;13inconsistency-with-law&#34;&gt;1.3	Inconsistency with Law&lt;/h2&gt;
+&lt;p&gt;The obligations and restrictions in these Rules are to be read subject to the rights, grants or privileges that may be given to any person or persons by the Owners Corporation from time to time, and to the extent of any inconsistency, any such rights, grants or privileges, prevail over these Rules in respect of the person or persons to whom they are given.&lt;/p&gt;
+&lt;h2 id=&#34;14severance&#34;&gt;1.4	Severance&lt;/h2&gt;
+&lt;p&gt;If any Rule or part thereof is found by a court of competent jurisdiction to be invalid, unlawful, unenforceable or void, then that Rule or part thereof shall be struck down and shall have no further force and effect, however all remaining Rules or part thereof capable of separate enforcement and effect shall continue to be valid and enforceable in accordance with their terms.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: 10. Contractors</title>
+      <link>http://example.org/posts/10contractors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/10contractors/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;101no-instruction&#34;&gt;10.1	No Instruction&lt;/h2&gt;
+&lt;p&gt;Lot Owners and Occupiers must not directly instruct any contractors or workers employed by the Owners Corporation unless specifically authorised to do so.&lt;/p&gt;
+&lt;h2 id=&#34;102owners-corporation-representative&#34;&gt;10.2	Owners Corporation Representative&lt;/h2&gt;
+&lt;p&gt;All requests for the Owners Corporation to consider giving directions on a particular matter to a contractor or worker must be directed to the Manager of the Owners Corporation, who will in turn refer the request to the Owners Corporation for determination.&lt;/p&gt;
+&lt;h2 id=&#34;103site-inductions&#34;&gt;10.3	Site Inductions&lt;/h2&gt;
+&lt;p&gt;Any contractors commissioned to commence work in the Building, Land or on Common Property must complete a site induction and submit a plan of works for approval before any such works may occur. The Owners Corporation will reply in writing when the works are approved and any isolations have been organised.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: 11. Notification of Infectious Diseases</title>
+      <link>http://example.org/posts/11notification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/11notification/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;111notice&#34;&gt;11.1	Notice&lt;/h2&gt;
+&lt;p&gt;Lot Owners and Occupiers must, if any infectious disease, which may require notification by virtue of any statute, regulation or ordinance, affects any person in any Lot give, or cause to be given, notice of that fact and any other information which may be required relative to the disease to the Owners Corporation.&lt;/p&gt;
+&lt;h2 id=&#34;112expenses&#34;&gt;11.2	Expenses&lt;/h2&gt;
+&lt;p&gt;The Lot Owner and Occupiers must pay to the Owners Corporation the expenses of disinfecting or isolating the affected Lot (if that is necessary) and replacing any article or thing the destruction of which may be rendered necessary by such disease.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: 12. Owners Corporation Rules and Notices</title>
+      <link>http://example.org/posts/12ownerscorporationrules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/12ownerscorporationrules/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;121notices-to-be-observed&#34;&gt;12.1	Notices to be Observed&lt;/h2&gt;
+&lt;p&gt;Each Lot Owner and Occupier must observe the terms of any notice displayed on any part of Common Property by authority of the Owners Corporation or of any statutory authority.&lt;/p&gt;
+&lt;h2 id=&#34;122invitees&#34;&gt;12.2	Invitees&lt;/h2&gt;
+&lt;p&gt;(a)	Each Lot Owner and Occupier must:&lt;/p&gt;
+&lt;p&gt;(i)	ensure any invitees comply with these Rules; and&lt;/p&gt;
+&lt;p&gt;(ii)	if an invitee fails to comply, forthwith cause that invitee to leave the land affected by the Owners Corporation as soon as reasonably practicable.&lt;/p&gt;
+&lt;h2 id=&#34;123rules-to-be-accessible&#34;&gt;12.3	Rules to be Accessible&lt;/h2&gt;
+&lt;p&gt;A copy of these Rules (including Rules made under them or a precis of them approved by the Owners Corporation) must be exhibited documented and made available at any given time from the management office or made available for letting and contained in any lease of the Lot.&lt;/p&gt;
+&lt;h2 id=&#34;124inflammable-materials&#34;&gt;12.4	Inflammable Materials&lt;/h2&gt;
+&lt;p&gt;(a)	A Lot Owner or Occupier must not, without the Owners Corporation&amp;rsquo;s written consent, use or store any dangerous or inflammable material in a Lot or on Common Property nor in any other way cause or increase a risk of fire or explosion in a Lot or Common Property.&lt;/p&gt;
+&lt;p&gt;(b)	A Lot Owner or Occupier is not permitted to use as a Barbecue Area the external areas of the Lot (including without limitations Balcony). A Lot Owner or Occupier must only use the Barbecue Areas on Common Property.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: 13.	Retail / Commercial Lots</title>
+      <link>http://example.org/posts/13retail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/13retail/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;131planning-permit-and-licences&#34;&gt;13.1	Planning Permit and Licences&lt;/h1&gt;
+&lt;p&gt;Retail / Commercial Lot applying for, and obtaining, any planning permit, liquor licence, or any retail or commercial legislative consent or permit which the Lot Owner or Occupier of any Retail / Commercial Lot may require, provided at all times the Lot Owner or Occupier of any such Retail / Commercial Lot:&lt;/p&gt;
+&lt;p&gt;(a)	operates lawfully;&lt;/p&gt;
+&lt;p&gt;(b)	obtains each and every permit, liquor licence or other consent required;&lt;/p&gt;
+&lt;p&gt;(c)	operates within the terms of any such liquor licence, permit or consent; and&lt;/p&gt;
+&lt;p&gt;(d)	operates within the parameters set out in the lease agreement.&lt;/p&gt;
+&lt;h1 id=&#34;132restrictions--conducting-trade&#34;&gt;13.2	Restrictions – Conducting Trade&lt;/h1&gt;
+&lt;p&gt;The Lot Owner and/or Occupier of a Retail/Commercial Lot must not use that Lot or any part of Common Property for any trade or business nor permit others to do so unless:&lt;/p&gt;
+&lt;p&gt;(a)	the planning scheme governing the use of that Lot permits the trade or business to be carried on from that Lot;&lt;/p&gt;
+&lt;p&gt;(b)	any requirements in respect of the trade or business stipulated by any relevant authority from time to time are complied with; and&lt;/p&gt;
+&lt;p&gt;(c)	the trade or business can be carried on, and is carried on, without causing undue nuisance to Lot Owners and/or Occupiers of other Lots.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: 14. Provision and Support of Services</title>
+      <link>http://example.org/posts/14provision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/14provision/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;141provision-of-services&#34;&gt;14.1	Provision of Services&lt;/h2&gt;
+&lt;p&gt;Lot Owners must not interfere with or modify any Building service, including but not limited to air conditioning, heating or ventilation systems or associated ducts or pipes, servicing Lot Owners&amp;rsquo; Lots, all Land affected by the Owners Corporation, the Building or Common Property without the prior written consent of the Owners Corporation.&lt;/p&gt;
+&lt;h2 id=&#34;142support-of-services&#34;&gt;14.2	Support of Services&lt;/h2&gt;
+&lt;p&gt;Lot Owners must not do anything or permit anything to be done to Lot Owners&amp;rsquo; Lots or Common Property, without the written consent of the Owners Corporation, so that:&lt;/p&gt;
+&lt;p&gt;(a)	any support or shelter provided by a Lot Owners&amp;rsquo; Lot or Common Property for any other Lot or Common Property is interfered with;&lt;/p&gt;
+&lt;p&gt;(b)	the structural and functional integrity of any part of the Lot or Common Property is impaired; or&lt;/p&gt;
+&lt;p&gt;(c)	the passage or provision of services through the Lot Owners&amp;rsquo; Lot or Common Property is interfered with.&lt;/p&gt;
+&lt;h2 id=&#34;143metering-of-services&#34;&gt;14.3	Metering of Services&lt;/h2&gt;
+&lt;p&gt;Where Lot Owners&amp;rsquo; Lots are not separately metered in relation to services, including but not limited to gas, electricity and / or water, Lot Owners shall pay a portion of such service and supply charges relating to the service on a proportional rate derived by dividing Lot Owners&amp;rsquo; unit liability with respect to the Lot Owners&amp;rsquo; Lot by the total unit liability of all Lots serviced jointly and by no other reference.&lt;/p&gt;
+&lt;h2 id=&#34;144apportionment-of-costs-of-services&#34;&gt;14.4	Apportionment of Costs of Services&lt;/h2&gt;
+&lt;p&gt;(a)	The Owners Corporation must not seek payment or reimbursement for a cost or charge from a Lot Owner or Occupier that is more than the amount that the supplier would have charged the Lot Owner or Occupier for the same goods or services.&lt;/p&gt;
+&lt;p&gt;(b)	If a supplier has issued an account to the Owners Corporation, the Owners Corporation cannot recover from the Lot Owner or Occupier an amount which includes any amount that is able to be claimed as a concession or rebate by or on behalf of the Lot Owner or Occupier from the relevant supplier.&lt;/p&gt;
+&lt;p&gt;(c)	Rule 14.4(b) does not apply if the concession or rebate:&lt;/p&gt;
+&lt;p&gt;(i)	must be claimed by the Lot Owner or Occupier and the Owners Corporation has given the Lot Owner or Occupier an opportunity to claim it and the Lot Owner or Occupier has not done so by the payment date set by the relevant supplier; or&lt;/p&gt;
+&lt;p&gt;(ii)	is paid directly to the Lot Owner or Occupier as a refund.&lt;/p&gt;
+&lt;h2 id=&#34;145maintenance-and-upgrading-of-services&#34;&gt;14.5	Maintenance and Upgrading of Services&lt;/h2&gt;
+&lt;p&gt;(a)	The Owners Corporation may from time to time arrange for the maintenance and upgrading of telecommunications or other utility services provided to a Lot or a series of Lots.&lt;/p&gt;
+&lt;p&gt;(b)	The Lot Owner or Occupier of any Lot that receives the benefit of the services must pay on demand by the Owners Corporation the proportion of the cost of providing those services and maintenance and upgrade of those services from time to time.&lt;/p&gt;
+&lt;p&gt;(c)	If a relevant Lot Owner or Occupier does not do so, the Owners Corporation may authorise the disconnection of any or all of the services provided to the Lot.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: 15.	Storage of Bicycles and Personal Items</title>
+      <link>http://example.org/posts/15storage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/15storage/</guid>
+      <description>
+        
+        
+        &lt;p&gt;(a)	A Lot Owner or Occupier cannot hold the Owners Corporation responsible in the event that their bicycle is stolen or damaged whilst stored on Common Property of the Building.&lt;/p&gt;
+&lt;p&gt;(b)	Lot Owners and Occupiers must not permit any personal items to be stored for any length of time on Common Property without the prior written consent of the Owners Corporation.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: 16. Fire and Smoke Control</title>
+      <link>http://example.org/posts/16fire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/16fire/</guid>
+      <description>
+        
+        
+        &lt;p&gt;(a)	Lot Owners and Occupiers must not:&lt;/p&gt;
+&lt;p&gt;(i)	keep inflammable material on Owners&amp;rsquo; Lot or any part of Common Property except as permitted by these Rules;&lt;/p&gt;
+&lt;p&gt;(ii)	interfere with fire safety equipment; or&lt;/p&gt;
+&lt;p&gt;(iii)	obstruct fire stairs or fire escapes.&lt;/p&gt;
+&lt;p&gt;(b)	Lot Owners and Occupiers must ensure that:&lt;/p&gt;
+&lt;p&gt;(i)	Lot Owners and Occupiers comply with all Laws about fire safety;&lt;/p&gt;
+&lt;p&gt;(ii)	all fire safety equipment in Owners&amp;rsquo; Lot or on parts of Common Property is at all times operational; and&lt;/p&gt;
+&lt;p&gt;(iii)	Lot Owners and Occupiers must take all reasonable steps necessary to avoid unwanted alarm calls to the fire brigade.&lt;/p&gt;
+&lt;p&gt;(c)	The Owners Corporation reserves the right to recover costs from Lot Owners and Occupiers for false alarm calls to the fire brigade caused by intentional and/or negligent acts.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: 17. Owners Corporation Manager</title>
+      <link>http://example.org/posts/17ownerscorporationmanager/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/17ownerscorporationmanager/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;171owners-corporation-manager&#34;&gt;17.1	Owners Corporation Manager&lt;/h2&gt;
+&lt;p&gt;(a)	If the Owners Corporation has appointed an Owners Corporation Manager and given notice of that appointment to a Lot Owner, the Lot Owner is entitled to and must assume that the Owners Corporation Manager is entitled to take any action on behalf of the Owners Corporation under these Rules.&lt;/p&gt;
+&lt;p&gt;(b)	A person must not interfere with or stop the Owners Corporation Manager from:&lt;/p&gt;
+&lt;p&gt;(i)	performing its obligations or exercising its rights under its agreement with the Owners Corporation; or&lt;/p&gt;
+&lt;p&gt;(ii)	using Common Property that the Owners Corporation permits it to use.&lt;/p&gt;
+&lt;h2 id=&#34;172consent-of-owners-corporation&#34;&gt;17.2	Consent of Owners Corporation&lt;/h2&gt;
+&lt;p&gt;(a)	Any consent required from the Owners Corporation which does not require the passing of special or unanimous resolution pursuant to the Act may be given:&lt;/p&gt;
+&lt;p&gt;(i)	by the Owners Corporation at a Committee meeting; and&lt;/p&gt;
+&lt;p&gt;(ii)	by any person to whom the Owners Corporation has delegated the power or function, including but not limited to a Committee or member of a Committee or the Owners Corporation Manager.&lt;/p&gt;
+&lt;p&gt;(b)	The Owners Corporation may apply conditions to any consent given under these Rules and Lot Owners and Occupiers must ensure that all the conditions are complied with.&lt;/p&gt;
+&lt;p&gt;(c)	The Owners Corporation may revoke any consent given under these Rules if Lot Owners and Occupiers do not comply with:&lt;/p&gt;
+&lt;p&gt;(i)	any conditions attached to the consent; or&lt;/p&gt;
+&lt;p&gt;(ii)	the Rules pursuant to which the consent was given.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: 18. Notices and Compliance</title>
+      <link>http://example.org/posts/18notices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/18notices/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;181address-of-new-owners&#34;&gt;18.1	Address of New Owners&lt;/h2&gt;
+&lt;p&gt;(a)	A Lot Owner who sells a Lot must advise the Owners Corporation of the name and address of the new owner within one month of the completion of the contract.&lt;/p&gt;
+&lt;p&gt;(b)	A person who acquires a Lot must advise the Owners Corporation of the person&amp;rsquo;s name, email (where available), contact telephone number and address within one month of the completion of the sale and purchase contract.&lt;/p&gt;
+&lt;h2 id=&#34;182address-of-absent-owners&#34;&gt;18.2	Address of Absent Owners&lt;/h2&gt;
+&lt;p&gt;(a)	A Lot Owner who does not occupy the Lot or who will be absent from the Lot for more than three months must advise the Owners Corporation of the Lot Owner&amp;rsquo;s mailing address for service of notices and any changes to it as soon as practicable.&lt;/p&gt;
+&lt;p&gt;(b)	If an address has not been nominated under Rule 18.2(a), service may be effected:&lt;/p&gt;
+&lt;p&gt;(i)	by posting the notice to the last known address of the Lot Owner; or&lt;/p&gt;
+&lt;p&gt;(ii)	if an address under paragraph (a) is not known or if a notice sent to that address is returned, in any other manner the Victorian Civil and Administrative Tribunal considers appropriate.&lt;/p&gt;
+&lt;h2 id=&#34;183advice-to-occupiers&#34;&gt;18.3	Advice to Occupiers&lt;/h2&gt;
+&lt;p&gt;A Lot Owner who does not occupy its Lot must give the Occupier of the Lot a copy of the Rules of the Owners Corporation and associated annexures at the commencement of occupation.&lt;/p&gt;
+&lt;p&gt;18.4	Duties of Occupiers of Lots
+An Occupier of a Lot:&lt;/p&gt;
+&lt;p&gt;(a)	must comply with the Act and the regulations under the Act and the Rules of the Owners Corporation; and&lt;/p&gt;
+&lt;p&gt;(b)	must not use or neglect Common Property or permit it to be used or neglected in a manner that is likely to cause damage or deterioration to Common Property.&lt;/p&gt;
+&lt;h2 id=&#34;185non-compliance&#34;&gt;18.5	Non-Compliance&lt;/h2&gt;
+&lt;p&gt;A Lot Owner and Occupier who has not complied with these Rules after service of a notice by the Owners Corporation specifying any non-compliance, agrees to the following in addition to any other rights that the Owners Corporation has under these Rules or the Act:&lt;/p&gt;
+&lt;p&gt;(a)	to allow the Owners Corporation, its employees, contractors or agents to enter the Lot and rectify any non-compliance where the non-compliance relates to performance of any works required to be performed by a Lot Owner and Occupier under these Rules;&lt;/p&gt;
+&lt;p&gt;(b)	if the Owners Corporation exercises its power to rectify non-compliance, to pay to the Owners Corporation any charges levied against the Lot Owner and Occupier in respect of the costs of the works performed as a result of the non-compliance;&lt;/p&gt;
+&lt;p&gt;(c)	to accept a certificate signed by the Secretary of the Owners Corporation as prima facie proof of the costs and expenses incurred by the Owners Corporation to rectify the Lot Owner&amp;rsquo;s and Occupier&amp;rsquo;s non-compliance with the Rules;&lt;/p&gt;
+&lt;p&gt;(d)	to pay interest at the rate prescribed by the Owners Corporation on all monies outstanding under these Rules (including the non-payment of any Owners Corporation fees) until they are paid; and&lt;/p&gt;
+&lt;p&gt;(e)	that any payments made for the purposes of these Rules will be appropriated first in payment of any interest and any unpaid costs and expenses of the Owners Corporation and then be applied in repayment of the principal sum.&lt;/p&gt;
+&lt;h2 id=&#34;186recovery-of-costs&#34;&gt;18.6	Recovery of Costs&lt;/h2&gt;
+&lt;p&gt;(a)	A Lot Owner and Occupier must pay on demand the whole of the Owners Corporation&amp;rsquo;s costs and expenses (including solicitor and own client costs and Owners Corporation management fees, plus any GST properly chargeable in respect of these costs) in connection with:&lt;/p&gt;
+&lt;p&gt;(i)	recovering levies or monies payable to the Owners Corporation pursuant to the Act or these Rules duly levied upon the Lot Owner by the Owners Corporation or otherwise pursuant to these Rules;&lt;/p&gt;
+&lt;p&gt;(ii)	all legal and other proceedings concluded by way of settlement or court determination in favour of the Owners Corporation taken by or against the Lot Owner or Occupier of a Lot; or&lt;/p&gt;
+&lt;p&gt;(iii)	costs and expenses (including solicitor and own client costs and Owners Corporation management fees) incurred by the Owners Corporation to enforce a Rule or make good any damage incurred by a breach of these Rules by the Lot Owner or Occupier or that person&amp;rsquo;s invitees (including tenants) and incurred in recovery of those costs-and-expenses.&lt;/p&gt;
+&lt;p&gt;(b)	The amount of any such costs will be deemed to be a liquidated debt due by the Lot Owner or Occupier to the Owners Corporation.&lt;/p&gt;
+&lt;p&gt;(c)	If the Lot Owner or Occupier fails to pay such costs upon demand, the Owners Corporation:&lt;/p&gt;
+&lt;p&gt;(i)	may take action for the recovery of those costs in a court of competent jurisdiction, and/or;&lt;/p&gt;
+&lt;p&gt;(ii)	may enter such costs and expenses against the levy account of the Lot Owner.&lt;/p&gt;
+&lt;p&gt;(d)	The Owners Corporation may include any costs payable to it under this Rule on any certificate issued in respect of the Lot pursuant to the Act, including but not limited to a notation of unpaid insurance premiums.&lt;/p&gt;
+&lt;h2 id=&#34;187recovery-of-expenditure&#34;&gt;18.7	Recovery of Expenditure&lt;/h2&gt;
+&lt;p&gt;Where the Owners Corporation expends money to make good the damage caused by a breach of the Act or of these Rules by a Lot Owner or Occupier or an invitee of either of them, the Owners Corporation will be entitled to recover the amount so expended as a debt in an action in any court of competent jurisdiction from the Lot Owner or Occupier at the time when the breach occurred&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: 19. Complaints and Dispute Resolution</title>
+      <link>http://example.org/posts/19complaints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/19complaints/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;191complaints&#34;&gt;19.1	Complaints&lt;/h2&gt;
+&lt;p&gt;(a)	Lot Owners, Occupiers and/or the Owners Corporation Manager may make a complaint with regard to any breach of these Rules or any applicable Laws and regulations by:&lt;/p&gt;
+&lt;p&gt;(i)	a Lot Owner;&lt;/p&gt;
+&lt;p&gt;(ii)	an Occupier; or&lt;/p&gt;
+&lt;p&gt;(iii)	Owners Corporation Manager.&lt;/p&gt;
+&lt;p&gt;(b)	All complaints must be:&lt;/p&gt;
+&lt;p&gt;(i)	in writing; and&lt;/p&gt;
+&lt;p&gt;(ii)	in the approved form as required by Laws from time to time.&lt;/p&gt;
+&lt;p&gt;(c)	All complaints must be brought to the attention of:&lt;/p&gt;
+&lt;p&gt;(i)	the Grievance Committee, if such a Committee has been elected; or&lt;/p&gt;
+&lt;p&gt;(ii)	the Owners Corporation in all other circumstances.&lt;/p&gt;
+&lt;p&gt;(d)	The Owners Corporation can dismiss and or refuse to act upon frivolous, false and or unsubstantiated complaints.&lt;/p&gt;
+&lt;p&gt;(e)	The Owners Corporation must make a copy of the approved complaint form available at the request of any person entitled to make an application.&lt;/p&gt;
+&lt;h2 id=&#34;192dispute-resolution&#34;&gt;19.2	Dispute Resolution&lt;/h2&gt;
+&lt;p&gt;(a)	The Owners Corporation or the Grievance Committee, where one exists, must organise a meeting between parties to the dispute to discuss the dispute within 14 working days of the complaint coming to the attention of the parties.&lt;/p&gt;
+&lt;p&gt;(b)	The Owners Corporation or the Grievance Committee cannot take any action with regard to the complaint until:&lt;/p&gt;
+&lt;p&gt;(i)	a meeting of the parties to the dispute has been organised to discuss the dispute;&lt;/p&gt;
+&lt;p&gt;(ii)	it is satisfied that the dispute remains unresolved;&lt;/p&gt;
+&lt;p&gt;(iii)	it is deemed that the Owners Corporation or the Grievance Committee has complied with its requirement to hold a meeting between the parties to a dispute irrespective of whether all or one of the parties to the dispute does not attend the meeting as organised by the Owners Corporation or Grievance Committee;&lt;/p&gt;
+&lt;p&gt;(iv)	a party to the dispute may appoint a person to act or appear on his or her behalf at the meeting;&lt;/p&gt;
+&lt;p&gt;(v)	if the dispute is not resolved, the Grievance Committee or Owners Corporation must notify each party&lt;/p&gt;
+&lt;p&gt;(A)	of his or her right to take further action under Part 10 of the Act; and&lt;/p&gt;
+&lt;p&gt;(B)	That this process is separate from and does not limit any further action under Part 10 of the Owners Corporations Act 2006 (Vic) as amended or replaced from time to time.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: 2. Rules and Laws</title>
+      <link>http://example.org/posts/2rules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2rules/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;21rules&#34;&gt;2.1	Rules&lt;/h2&gt;
+&lt;p&gt;(a)	These Rules exist for the purpose of controlling, managing and administering the use and enjoyment of Common Property and Lots.
+(b)	These Rules are binding on:
+(i)	Lot Owners;
+(ii)	Occupiers;
+(iii)	the Owners Corporation; and
+(iv)	lessees, licensees and/or sub-lessees or sub-licensees of Common Property.&lt;/p&gt;
+&lt;h2 id=&#34;22compliance-with-rules-and-laws&#34;&gt;2.2	Compliance with Rules and Laws&lt;/h2&gt;
+&lt;p&gt;(a)	Lot Owners and Occupiers must, and Lot Owners must ensure that Occupiers, at their own cost and in a timely manner, comply with all Rules and Laws relating to:&lt;/p&gt;
+&lt;p&gt;(i)	Lot Owners&amp;rsquo; Lots;&lt;/p&gt;
+&lt;p&gt;(ii)	the use of Lot Owners&amp;rsquo; Lots; and&lt;/p&gt;
+&lt;p&gt;(iii)	the use of Common Property and services to the Building and Land.&lt;/p&gt;
+&lt;p&gt;(b)	The Laws referred to in Rule 2.2(a) include but are not limited to, planning Laws, development approvals, building or other approvals, consent requirements, notices and or offers of statutory or governmental authorities.&lt;/p&gt;
+&lt;h2 id=&#34;23lot-owners-responsible-for-invitees&#34;&gt;2.3	Lot Owners Responsible for Invitees&lt;/h2&gt;
+&lt;p&gt;(a)	Lot Owners must ensure that all invitees of Lot Owners and Occupiers comply with these Rules and all Laws relating to Lot Owners&amp;rsquo; Lots whilst on the Lot Owners’ Lots or Common Property.&lt;/p&gt;
+&lt;p&gt;(b)	Lot Owners are responsible for any breaches or failures to comply with these Rules or any Laws relating to Lot Owners&amp;rsquo; Lots by:&lt;/p&gt;
+&lt;p&gt;(i)	Lot Owners&amp;rsquo; invitees;&lt;/p&gt;
+&lt;p&gt;(ii)	Occupiers; and&lt;/p&gt;
+&lt;p&gt;(iii)	invitees of Occupiers.&lt;/p&gt;
+&lt;h2 id=&#34;24incorporation-of-act&#34;&gt;2.4	Incorporation of Act&lt;/h2&gt;
+&lt;p&gt;To the extent permitted by Part 8 and Schedule 1 of the Act the Owners Corporation adopts as Rules the provisions of the Act and the Regulations and Proprietors of lots must comply with the Act and Regulations and any breach of the Act or Regulations shall constitute a breach of these Rules.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: 20. GST payment</title>
+      <link>http://example.org/posts/20gst/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/20gst/</guid>
+      <description>
+        
+        
+        &lt;p&gt;If the Owners Corporation is liable by law for any GST on any Primary Payment, the Lot Owner must pay to the Owners Corporation the amount of the GST in addition to the Primary Payment at the same time and in the same manner as the Lot Owner is required to pay the Primary Payment in respect of which the GST relates.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: 21.	Heritage Victoria Requirements</title>
+      <link>http://example.org/posts/22heritage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/22heritage/</guid>
+      <description>
+        
+        
+        &lt;p&gt;(a)	The Owners Corporation shall take all action necessary or desirable to preserve, maintain and care for the Registered Place to the satisfaction of the Heritage Council.&lt;/p&gt;
+&lt;p&gt;(b)	The Owners Corporation and the owners of all lots acknowledge that the Registered Place is of cultural heritage significance and is No. 699 on the Victorian Heritage Register.&lt;/p&gt;
+&lt;p&gt;(c)	The Owners Corporation shall be entitled to levy and recover from Lot Owners special fees or charges to establish a fund to cover the maintenance and restoration of the Registered Place. The Owners Corporation shall be entitled to invest the same in an interest bearing account with any bank. The funds shall be used to fulfil the obligations of the Owners Corporation and Lot Owners to preserve, maintain and care for the Registered Place.&lt;/p&gt;
+&lt;p&gt;(d)	An owner or occupier of a Lot shall not remove, demolish, damage, despoil, develop, alter, excavate or subdivide the Registered Place unless in accordance with a permit issued by the Executive Director.&lt;/p&gt;
+&lt;p&gt;(e)	Any rule of the Owners Corporation insofar as it relates to the development, use, preservation, maintenance and care of the Registered Place shall not be varied or amended save and except with the written consent of the Heritage Council.&lt;/p&gt;
+&lt;p&gt;(f)	The Owners Corporation and Lot Owners shall not permit, consent to or allow any Lot Owner or occupier to make any alterations, additions, change or variation (structural or otherwise) to the interior or exterior of any building or structure within the Registered Place. Such prohibition extends to repainting all or any part of the Building, plastering, adding window boxes, aerials, antennae, reception dishes, chimneys, flues, pipes, air conditioning equipment, rooflines, signs, lights, awning, and doing any or work or act which requires penetration of, attachment to or removal of any part of the walls or roof of any building, structure or improvement situated on or within the Registered Place unless the Heritage Council&amp;rsquo;s prior written consent has been obtained or the works fall within an agreed declaration for permit exemptions issued by the Heritage Council.&lt;/p&gt;
+&lt;p&gt;(g)	The Owners Corporation and Lot Owners shall at all times comply with the terms and conditions of any Executive Director permit, copies of which shall be available for inspection from the Owners Corporation.&lt;/p&gt;
+&lt;p&gt;(h)	The Owners Corporation and Lot Owners shall implement and/or carry out any agreed works program which has been prepared as a condition of any Executive Director permit. The Owners Corporation must from time to time appoint an appropriate consultant to devise the method and manner of implementing the said works program to the satisfaction of the Executive Director.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: 22. Hotel Lots</title>
+      <link>http://example.org/posts/22hotel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/22hotel/</guid>
+      <description>
+        
+        
+        &lt;p&gt;(a)	The Hotel for the time being shall have unrestricted access to Common Property (including any exclusive use areas and special privilege areas referred to in these rules) for the purpose of the Hotel properly and effectively exercising its rights and obligations under the Liquor Act (or any other relevant statute) for the purpose of carrying on the business of a licensed restaurant, bar, liquor shop, hotel and providing a mini bar and room service to Lot Owners or Occupiers of other Lots in the Building.&lt;/p&gt;
+&lt;p&gt;(b)	The Hotel is entitled to exercise on Common Property the business of the letting of Lots and for that purpose the Owners Corporation may enter into an appropriate agreement with the Hotel on such terms and conditions as the Owners Corporation may deem fit.&lt;/p&gt;
+&lt;p&gt;(c)	The Hotel may erect such signs on Common Property as may be reasonably necessary for the purpose of promoting or fostering the business of a hotel subject to entering into appropriate agreement with the Owners Corporation on such terms and conditions as the Owners Corporation may deem fit.&lt;/p&gt;
+&lt;p&gt;(d)	Subject to Rule 22(c), the Hotel has the exclusive right, subject to any local Authority to erect and maintain any signs or placards on the exterior and interior of the Building.&lt;/p&gt;
+&lt;p&gt;(e)	The Hotel shall be entitled to access to the security system(s) both visual and audio and including any video camera(s) throughout the Building or on the Land installed on Common Property by the Owners Corporation. Any security system(s) and its components that are erected or installed on or within Common Property by the Hotel shall be subject to written approval from the Owners Corporation.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: 23. Relocations, Deliveries, Tradespeople and Moving of Articles</title>
+      <link>http://example.org/posts/23relocations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/23relocations/</guid>
+      <description>
+        
+        
+        &lt;p&gt;A Lot Owner must not, and must ensure that the Occupier of a Lot does not:&lt;/p&gt;
+&lt;p&gt;(a)	give less than forty-eight (48) hours&amp;rsquo; notice to the Owners Corporation or its representative before any furniture, fittings, furnishings or equipment may be moved in or out of any Lot and the moving of same must be done in a manner and at the time directed by the representative of the Owners Corporation;&lt;/p&gt;
+&lt;p&gt;(b)	the Owners Corporation reserves the right to turn away any Lot Owner or Occupier who has not provided the appropriate notice and the Owners Corporation will not be responsible for any loss of income or monies incurred as a result of the failure of the Lot Owner of Occupier to adhere to the minimum notice period;&lt;/p&gt;
+&lt;p&gt;(c)	arrange for deliveries of any kind or nature unless the Lot Owner of Occupier or designee is at or on the premises to accept and arrange for the same at each Lot Owner or Occupier’s sole cost and liability;&lt;/p&gt;
+&lt;p&gt;(d)	ensure that the loading and unloading of vehicles shall be made entirely within the Building at such locations and at such times as to cause minimum interference with other vehicular traffic and strictly in accordance with the regulations made by the Owners Corporation from time to time;&lt;/p&gt;
+&lt;p&gt;(e)	damage, obstruct or interfere with the stairways, corridors or any Common Property when moving any items in or out of any Lot;&lt;/p&gt;
+&lt;p&gt;(f)	use the lift for moving furniture and furnishings into or out of a Lot without first having obtained the consent of the Owners Corporation and then only by observing the specific instructions determined by the Owners Corporation; and&lt;/p&gt;
+&lt;p&gt;(g)	allow moving boxes or other associated rubbish from deliveries or moves to be disposed of by the Owners Corporation or within the Owners Corporation rubbish area. All moving boxes or associated rubbish must be removed by the Lot Owner or Occupier or their removalist and must not be disposed of in any Common Property or common rubbish area at any time.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: 3. Owner&#39;s Obligations</title>
+      <link>http://example.org/posts/3ownersobligations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/3ownersobligations/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;31use-of-lot&#34;&gt;3.1	Use of Lot&lt;/h2&gt;
+&lt;p&gt;(a)	Lot Owners must, and must ensure that the Occupier of the Lot complies with any directions made or action taken by the Owners Corporation pursuant to the duty of the Owners Corporation to manage and administer Common Property under the Act.&lt;/p&gt;
+&lt;p&gt;(b)	A Lot Owner must not and must ensure that the Occupier does not and the Occupier must not:&lt;/p&gt;
+&lt;p&gt;(i)	use Common Property or permit Common Property to be used in such a manner as to unreasonably interfere with or prevent its use by other Lot Owners or Occupiers or their invitees unless agreed in writing by the Owners Corporation;&lt;/p&gt;
+&lt;p&gt;(ii)	create or allow any noise or behave in a manner likely to interfere with the peaceful enjoyment of other Lot Owners or Occupiers unless agreed in writing by the Owners Corporation;&lt;/p&gt;
+&lt;p&gt;(iii)	when on Common Property, or on any part of a Lot so as to be visible from another Lot or from Common Property be unclothed and must not use language or behave in a manner likely to cause offence or embarrassment to other Lot Owners or Occupiers or to any person lawfully using Common Property;&lt;/p&gt;
+&lt;p&gt;(iv)	use or permit a Lot affected or Common Property to be used for any purpose which may be illegal or injurious to the reputation of the Owners Corporation or which may cause a nuisance or hazard to any other Lot Owner or Occupier of any other Lot or the invitees of any such other Lot Owner or Occupier;&lt;/p&gt;
+&lt;p&gt;(v)	use a barbecue save for those barbecues on Common Property provided by the Owners Corporation;&lt;/p&gt;
+&lt;p&gt;(vi)	fit any covering over external areas of the Lot (including ground floor patio and balconies) as the Owners Corporation may determine from time to time by way of an application to the Owners Corporation; plant or permit to be planted any plants, trees, lawn or other vegetation; store any materials or goods on Common Property except with the prior written consent of the Owners Corporation and in accordance with the terms and conditions contained in that written consent;&lt;/p&gt;
+&lt;p&gt;(vii)	keep the Lot in a manner which is dangerous or likely to cause danger to life, persons or property;&lt;/p&gt;
+&lt;p&gt;(viii)	store or accumulate any matter, substance or thing which is dangerous or likely to cause danger to life or property without prior written consent of the Owners Corporation. Items included in this definition that are for personal use may be&lt;/p&gt;
+&lt;p&gt;stored without consent if they are stored and used in accordance with the manufacturer’s recommendations or any other applicable standard;&lt;/p&gt;
+&lt;p&gt;(ix)	store or accumulate in public view or permit to be so stored or accumulated any materials goods or debris on any part of a Lot;&lt;/p&gt;
+&lt;p&gt;(x)	obstruct any fire appliance cupboard, stairway, landing or lift lobby or permit the same to be obstructed;&lt;/p&gt;
+&lt;p&gt;(xi)	permit any trade, contractor or other person carrying out any works to be on the Lot or Common Property:&lt;/p&gt;
+&lt;p&gt;(A)	on any public holiday or Sunday; or&lt;/p&gt;
+&lt;p&gt;(B)	before 9.00 am or after 6.00 pm Monday to Friday; or&lt;/p&gt;
+&lt;p&gt;(C)	before 9.00 am or after 6.00 pm on Saturday;&lt;/p&gt;
+&lt;p&gt;(D)	except in the case of an emergency which includes:&lt;/p&gt;
+&lt;p&gt;(1)	an interruption to gas, water, electricity, telephone, drainage, sewerage or a similar service; or&lt;/p&gt;
+&lt;p&gt;(2)	a leak or a similar problem requiring prompt attention; or&lt;/p&gt;
+&lt;p&gt;(3)	cracking or a similar problem likely to affect the immediate safety of the building;&lt;/p&gt;
+&lt;p&gt;(xii)	display or hang or permit to be displayed or hung any clothes or other articles on any part of the exterior of the Lot (including without limitation Balconies) or so as to be visible from outside the Lot;&lt;/p&gt;
+&lt;p&gt;(xiii)	damage or deface or obstruct or suffer to be damaged, defaced or obstructed Common Property or any part thereof;&lt;/p&gt;
+&lt;p&gt;(xiv)	install, or allow the installation of any window furnishing that is viewable from the outside of the Building that is not in accordance with these Rules. Any window furnishing must be of such colour, style and quality as is determined by the Owners Corporation from time to time;&lt;/p&gt;
+&lt;p&gt;(xv)	do or permit to be done on the Lot any act or thing by reason of or in consequence of which any increased or extra premium may become payable for the insurance of Common Property or any part or parts thereof or any policy for such insurance may become void or voidable;&lt;/p&gt;
+&lt;p&gt;(xvi)	store on any Lot any tree, grass, shrub, tree clippings or plant waste, metals, bulk materials or scrap or refuse or garbage without the written consent of the Owners Corporation;&lt;/p&gt;
+&lt;p&gt;(xvii)	start or keep a fire within any Lot without the written consent of the Owners Corporation;&lt;/p&gt;
+&lt;p&gt;(xviii)	make any changes to the external appearance of any Lot (including courtyard or balcony) without first obtaining written approval of the Owners Corporation, which approval shall not be unreasonably withheld. The Owners Corporation may give approval subject to reasonable conditions to protect quiet enjoyment of other Lot Owners, structural integrity or the value of other Lots and/or Common Property;&lt;/p&gt;
+&lt;p&gt;(xix)	install any air conditioning equipment on the outside of any Lot or the inside of any Lot without the written consent of the Owners Corporation; or&lt;/p&gt;
+&lt;p&gt;(xx)	smoke in any Common Area within the Building.&lt;/p&gt;
+&lt;h2 id=&#34;32leasing&#34;&gt;3.2	Leasing&lt;/h2&gt;
+&lt;p&gt;A Lot Owner may let a Lot but only:&lt;/p&gt;
+&lt;p&gt;(a)	by means of a written lease or tenancy agreement; and&lt;/p&gt;
+&lt;p&gt;(b)	if that lease or agreement obliges the lessee or tenant to comply with these Rules; and&lt;/p&gt;
+&lt;p&gt;(c)	if the lessee or tenant signs an agreement confirming their acceptance of these Rules if required to do so by the Owners Corporation; and&lt;/p&gt;
+&lt;p&gt;(d)	if the Lot Owner provides the name, address, and a contact telephone number of the Occupier to the Owners Corporation.&lt;/p&gt;
+&lt;p&gt;3.3	Noise
+No person may in a Lot or on Common Property:&lt;/p&gt;
+&lt;p&gt;(a)	carry on a noxious or offensive activity; or&lt;/p&gt;
+&lt;p&gt;(b)	make or allow noise in a Lot or on Common Property that will interfere with the quiet enjoyment of another Lot or Common Property by others.&lt;/p&gt;
+&lt;h2 id=&#34;34appearance&#34;&gt;3.4	Appearance&lt;/h2&gt;
+&lt;p&gt;A person may not display a sign or notice on part of a Lot or on Common Property in any manner whatsoever so it is visible from outside the Lot without the prior written approval of the Owners Corporation.&lt;/p&gt;
+&lt;h2 id=&#34;35auctions&#34;&gt;3.5	Auctions&lt;/h2&gt;
+&lt;p&gt;A Lot Owner must not permit any auction sale to be conducted or to take place in the Lot or within the Development or Land without the prior approval in writing of the Owners Corporation.&lt;/p&gt;
+&lt;p&gt;3.6	Animals
+(a)	Lot Owners and/or Occupiers must not keep animals unless:&lt;/p&gt;
+&lt;p&gt;(i)	the Lot Owner and/or Occupier complies with this Rule; and&lt;/p&gt;
+&lt;p&gt;(ii)	the animal is kept on a leash or in a locked carrier designed for the sole purpose of carrying animals whenever on Common Property;&lt;/p&gt;
+&lt;p&gt;(iii)	the animal is registered with as is required by law from time to time and all animals must wear any registration tag and identification tag clearly showing the member, occupier, invitee or guest&amp;rsquo;s address and telephone number;&lt;/p&gt;
+&lt;p&gt;(iv)	the animal is vaccinated, wormed and treated for fleas;&lt;/p&gt;
+&lt;p&gt;(v)	the animal is free from communicable disease;&lt;/p&gt;
+&lt;p&gt;(vi)	the Lot Owner and/or Occupier gives the Owners Corporation prior details of the animal including without limitation the breed, approximate age and registration where applicable;&lt;/p&gt;
+&lt;p&gt;(b)	Lot Owners and/or Occupiers of a Lot may only keep an animal on its Lot with the consent of the Owners Corporation, which consent shall not be reasonably withheld.&lt;/p&gt;
+&lt;p&gt;(c)	If any animal causes a nuisance, the Owners Corporation may give notice to remove the animal from a Lot or Common Property (or both). Lot Owners and/or Occupiers must remove the animal from a Lot or Common Property immediately upon receipt of the notice of the Owners Corporation.&lt;/p&gt;
+&lt;p&gt;(d)	A Lot Owner and/or Occupier of a Lot must ensure that any animal in its control does not urinate or defecate on Common Property and must be responsible to clean any mess caused by its animal immediately.&lt;/p&gt;
+&lt;p&gt;(e)	Rules 3.6(a-d) do not apply to an animal which assists a person with an impairment or disability, however, the Owners Corporation may require the Lot Owners and/or Occupiers of such animal to take reasonable steps to prevent the occurrence of any nuisance and/or damage in accordance with these Rules.&lt;/p&gt;
+&lt;h2 id=&#34;37planning-and-environment-act-section-173-agreement&#34;&gt;3.7	Planning and Environment Act (Section 173 Agreement)&lt;/h2&gt;
+&lt;p&gt;The Owners Corporation must comply, and must to the extent applicable, procure that each Lot Owner and any Occupier of a Lot Owner&amp;rsquo;s Lot complies, with all the obligations of any Section 173 Agreement.&lt;/p&gt;
+&lt;h2 id=&#34;38local-laws&#34;&gt;3.8	Local Laws&lt;/h2&gt;
+&lt;p&gt;The Owners Corporation, Lot Owners, Occupiers and visitors must comply with all Local Laws.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: 4. Alterations to Lots and Common Property</title>
+      <link>http://example.org/posts/4alterations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/4alterations/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;41alterations-to-services-to-lots&#34;&gt;4.1	Alterations to services to Lots&lt;/h2&gt;
+&lt;p&gt;Lot Owners and Occupiers may not without the prior written consent of the Owners Corporation alter gas, water, drainage, septic, sewerage, electrical or any other utility connections and services to a Lot.&lt;/p&gt;
+&lt;h2 id=&#34;42alterations-to-common-property&#34;&gt;4.2	Alterations to Common Property&lt;/h2&gt;
+&lt;p&gt;Lot Owners and Occupiers must not:&lt;/p&gt;
+&lt;p&gt;(a)	alter;&lt;/p&gt;
+&lt;p&gt;(b)	paint or otherwise mark;&lt;/p&gt;
+&lt;p&gt;(c)	core into concrete slabs;&lt;/p&gt;
+&lt;p&gt;(d)	drive nails or anything else into; or&lt;/p&gt;
+&lt;p&gt;(e)	otherwise damage or deface,&lt;/p&gt;
+&lt;p&gt;any structure (including any irrigation equipment or piping) forming part of Common Property except with the prior written consent of the Owners Corporation.&lt;/p&gt;
+&lt;h2 id=&#34;43interference-of-common-property&#34;&gt;4.3	Interference of Common Property&lt;/h2&gt;
+&lt;p&gt;Lot Owners, Occupiers and visitors must not:&lt;/p&gt;
+&lt;p&gt;(a)	damage a lawn or garden;&lt;/p&gt;
+&lt;p&gt;(b)	damage or remove any plant or part of a plant; or&lt;/p&gt;
+&lt;p&gt;(c)	interfere with the operation of irrigation, on Common Property.
+4.4	Damage to Landscaping on Common Property
+(a)	damage any of the Landscape situated upon Common Property; or&lt;/p&gt;
+&lt;p&gt;(b)	except with the prior written consent of the Owners Corporation use for the Lot Owners and/or Occupier&amp;rsquo;s own purpose as a garden any of Common Property.&lt;/p&gt;
+&lt;h2 id=&#34;45maintenance&#34;&gt;4.5	Maintenance&lt;/h2&gt;
+&lt;p&gt;Lot Owners and Occupiers must:&lt;/p&gt;
+&lt;p&gt;(a)	maintain in good condition and repair the exterior of the Lot and/or Building including (without limitation) all fences, walls, windows, gates, sidewalls, walkways within a Lot;&lt;/p&gt;
+&lt;p&gt;(b)	make any necessary arrangements for supply of sufficient water for the maintenance and irrigation of all landscaping within a Lot and pay for such water; and&lt;/p&gt;
+&lt;p&gt;(c)	take all practicable steps to prevent infestation of the Lot by vermin or insects.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: 5. Vehicles and parking</title>
+      <link>http://example.org/posts/5vehicles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/5vehicles/</guid>
+      <description>
+        
+        
+        &lt;p&gt;(a)	Lot Owners and Occupiers must not, and must ensure that its guest(s) or invitee(s) do not, unless in the case of an emergency:&lt;/p&gt;
+&lt;p&gt;(i)	park or leave a vehicle, or permit a vehicle, to be parked or left:&lt;/p&gt;
+&lt;p&gt;(A)	on Common Property, except in designated car spaces; or&lt;/p&gt;
+&lt;p&gt;(B)	in car park Lots owned by other Lot Owners;&lt;/p&gt;
+&lt;p&gt;(ii)	fail to comply with any directions of the Owners Corporation, including through the Building Manager, in relation to car parking;&lt;/p&gt;
+&lt;p&gt;(iii)	load or unload vehicles so as to cause interference to other vehicles or vehicular or pedestrian traffic, and then only in strict compliance with any Rules of use;&lt;/p&gt;
+&lt;p&gt;(iv)	in the case of guest(s) or invitee(s), park or leave a vehicle, or permit a vehicle to be parked or left in or on any place, other than an area set aside and marked for visitors parking, and then only for the maximum time identified and in strict compliance with any Rules of Use;&lt;/p&gt;
+&lt;p&gt;(v)	use or permit to be used any part of Common Property or a Lot to wash, clean, service or repair any vehicle, except in the designated washing bay;&lt;/p&gt;
+&lt;p&gt;(vi)	throw or drop any rubbish about the car park, nor permit any rubbish to be thrown or dropped from his or her vehicle in or about the car park. The Owners Corporation will, at its discretion, charge the Lot Owners and Occupiers responsible for any consequential costs of cleaning; or&lt;/p&gt;
+&lt;p&gt;(vii)	do or permit anything to be done that shall cause or be a nuisance or disturbance to users of the car park.&lt;/p&gt;
+&lt;p&gt;(b)	Any vehicle required on the Land to conduct building or other trade works must obtain the prior approval of the Building Manager and, only upon obtaining such approval, may be parked in the area designated by the Building Manager.&lt;/p&gt;
+&lt;p&gt;(c)	Lot Owners and Occupiers shall exercise due care and skill while driving in or about the car park.&lt;/p&gt;
+&lt;p&gt;(d)	Lot Owners and Occupiers shall comply with all directional signs and speed limits must be observed at all times by all vehicles whilst on Common Property.&lt;/p&gt;
+&lt;p&gt;(e)	Lot Owners and Occupiers shall ensure that their vehicles do not leak oil or leave any other residue within the car park. The Owners Corporation will, at its discretion, charge the Lot Owners and Occupiers responsible for any consequential costs of cleaning.&lt;/p&gt;
+&lt;p&gt;(f)	Lot Owners and Occupiers may permit a guest or invitee to utilise its own car park Lot provided such use does not unreasonably interfere with another Lot Owners and Occupiers&amp;rsquo; use and enjoyment of its Lot and or the Common Property.&lt;/p&gt;
+&lt;p&gt;(g)	The Owners Corporation may, at its discretion, deny access to the car parking area to any driver who is unable to produce a valid Access Token.&lt;/p&gt;
+&lt;p&gt;(h)	The Owners Corporation may, at its discretion, enter into an agreement with the relevant local government authority to enforce parking restrictions on Common Property.&lt;/p&gt;
+&lt;p&gt;(i)	The Owners Corporation shall not be responsible and will have no liability for:&lt;/p&gt;
+&lt;p&gt;(i)	any damage sustained by a driver’s vehicle while inside the car park or while entering or leaving the car park;&lt;/p&gt;
+&lt;p&gt;(ii)	any damage sustained to a Lot Owners and Occupiers&amp;rsquo; storage cage, the storage rooms or the contents therein;&lt;/p&gt;
+&lt;p&gt;(iii)	the theft of any vehicle or its contents parked in the car park, a bicycle or other chattel located in the car park and any storage cage, storage room or their contents therein; or&lt;/p&gt;
+&lt;p&gt;(iv)	personal injury related to vehicles whether parked or mobile in the car park.&lt;/p&gt;
+&lt;p&gt;(j)	Should a Lot Owner or Occupier become informed or otherwise aware of a breach of these Rules, the Lot Owner or Occupier must advise the Owners Corporation, within a reasonable time.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: 6. Insurance</title>
+      <link>http://example.org/posts/7security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/7security/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;71common-property-security&#34;&gt;7.1	Common Property Security&lt;/h2&gt;
+&lt;p&gt;(a)	The Owners Corporation may arrange and operate a security system to monitor the Land affected by the Owners Corporation.&lt;/p&gt;
+&lt;p&gt;(b)	The Owners Corporation&lt;/p&gt;
+&lt;p&gt;(i)	is responsible for control of the security system; and&lt;/p&gt;
+&lt;p&gt;(ii)	may employ servants, agents or contractors to operate any security system.&lt;/p&gt;
+&lt;h2 id=&#34;72security-arrangements&#34;&gt;7.2	Security Arrangements&lt;/h2&gt;
+&lt;p&gt;(a)	At the discretion of the Owners Corporation, the security arrangements may include, without limitation:&lt;/p&gt;
+&lt;p&gt;(i)	security of Common Property against entry by unauthorised person(s);&lt;/p&gt;
+&lt;p&gt;(ii)	admission to any person subject to limits on the time of use and the parts of Common Property that may be used or the manner of use and the right to revoke admission at any time on reasonable grounds;&lt;/p&gt;
+&lt;p&gt;(iii)	conditional approval for access to any part of Common Property and without limitation may only allow access to parts of Common Property during specified times as approved by Owners Corporation. A person who has the permission of the Owners Corporation is entitled access to any part of Common Property to the extent of that approval.&lt;/p&gt;
+&lt;p&gt;(iv)	issue of Access Tokens;&lt;/p&gt;
+&lt;p&gt;(v)	refusal to admit any person it considers likely to be a nuisance or a security risk or the removal of any person from a Lot or Common Property (upon complaint);&lt;/p&gt;
+&lt;p&gt;(vi)	entry to any part of a Lot or Common Property for the purpose of maintaining its security;&lt;/p&gt;
+&lt;p&gt;(vii)	security patrols, locks and other security devices or procedures to operate the security arrangements.&lt;/p&gt;
+&lt;p&gt;(b)	The Owners Corporation may:&lt;/p&gt;
+&lt;p&gt;(i)	erect, maintain and cause to be operated security measures including security officers, for the purpose of regulating or prohibiting access to any part of Common Property where Owners Corporation approval has been given to restrict access; and&lt;/p&gt;
+&lt;p&gt;(ii)	delegate to security officers the function of deciding whether to grant permission for access to any part of Common Property. Any delegation will not limit the power of the Owners Corporation to grant such permission. The Owners Corporation may revoke a delegation at any time within reason.&lt;/p&gt;
+&lt;h2 id=&#34;73access-tokens&#34;&gt;7.3	Access Tokens&lt;/h2&gt;
+&lt;p&gt;(a)	The Owners Corporation may determine the number of Access Tokens for Lot Owners and Occupiers to access Common Property.&lt;/p&gt;
+&lt;p&gt;(b)	The Owners Corporation may charge a fee for Access Tokens allocated by it for Lot Owners and Occupiers.&lt;/p&gt;
+&lt;p&gt;(c)	Access Tokens shall remain the property of the Owners Corporation.&lt;/p&gt;
+&lt;p&gt;(d)	A Lot Owner or Occupier must:&lt;/p&gt;
+&lt;p&gt;(i)	take all reasonable steps not to transfer or lose Access Tokens given to it by the Owners Corporation;&lt;/p&gt;
+&lt;p&gt;(ii)	return Access Tokens to the Owners Corporation if the Lot Owner or Occupier no longer needs them or if Lot Owners no longer owns a Lot;&lt;/p&gt;
+&lt;p&gt;(iii)	notify the Owners Corporation immediately if Lot Owners or Occupiers lose an Access Token; and&lt;/p&gt;
+&lt;p&gt;(iv)	at the Lot Owner&amp;rsquo;s cost replace any Access Token which is issued to the Lot Owner by the Owners Corporation.&lt;/p&gt;
+&lt;p&gt;(e)	Lot Owners must not, without the prior written consent of the Owners Corporation:&lt;/p&gt;
+&lt;p&gt;(i)	copy or permit to be copied any Access Token; or;&lt;/p&gt;
+&lt;p&gt;(ii)	transfer any Access Token to someone who is not a Lot Owner or Occupier without the prior written consent of the Owners Corporation.&lt;/p&gt;
+&lt;h2 id=&#34;74owners-corporation-liability&#34;&gt;7.4	Owners Corporation Liability&lt;/h2&gt;
+&lt;p&gt;The Owners Corporation is not liable for injury to or death of a person or loss of or damage to property (whether in Common Property or a Lot) arising because:&lt;/p&gt;
+&lt;p&gt;(a)	the security system is not operating;&lt;/p&gt;
+&lt;p&gt;(b)	the security system fails to operate as intended; or&lt;/p&gt;
+&lt;p&gt;(c)	The land affected by the Owners Corporation is entered onto by a guest or invitee of a Lot Owner or Occupier.&lt;/p&gt;
+&lt;h2 id=&#34;75surveillance-systems-and-devices&#34;&gt;7.5	Surveillance Systems and Devices&lt;/h2&gt;
+&lt;p&gt;A Lot Owner may not and may not permit any Occupier to erect any sign or do anything that may interfere or impede the view of any security camera, surveillance system or device.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: 7. Security</title>
+      <link>http://example.org/posts/6insurance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/6insurance/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;61restrictions&#34;&gt;6.1	Restrictions&lt;/h2&gt;
+&lt;p&gt;A person must not bring to, do or keep anything on a Lot which:&lt;/p&gt;
+&lt;p&gt;(a)	will increase the rate of premium for insurance on another Lot or Common Property;&lt;/p&gt;
+&lt;p&gt;(b)	conflicts with Laws relating to fire or any insurance policy on another Lot or Common Property.&lt;/p&gt;
+&lt;h2 id=&#34;62insurance&#34;&gt;6.2	Insurance&lt;/h2&gt;
+&lt;p&gt;All Lot Owners must ensure that any improvements within a Lot are in compliance with all laws and legal requirements and in keeping with Good Manufacturing Practice standards.&lt;/p&gt;
+&lt;h2 id=&#34;63insurance-premiums&#34;&gt;6.3	Insurance Premiums&lt;/h2&gt;
+&lt;p&gt;(a)	Lot Owners must not, without prior written consent of the Owners Corporation, do or permit anything to be done which may invalidate, suspend or increase the premiums for any insurance policy affected by the Owners Corporation.&lt;/p&gt;
+&lt;p&gt;(b)	Lot Owners must, if the Owners Corporation demands, reimburse the Owners Corporation for any difference in insurance premiums resulting from any consent provided by the Owners Corporations pursuant to these Rules.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: 8. Waste Collection</title>
+      <link>http://example.org/posts/8waste/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/8waste/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Each Lot Owner and Occupier must:&lt;/p&gt;
+&lt;p&gt;(a)	be aware of and adhere to the Waste Management Agreement;&lt;/p&gt;
+&lt;p&gt;(b)	at all times protect waste deposited in designated areas against the attraction of flies or other vermin by wrapping the waste in paper or other suitable material;&lt;/p&gt;
+&lt;p&gt;(c)	not place or caused to be placed in the receptacle any refuse, or other thing which is aflame, smouldering, sludge, alive or not waste;&lt;/p&gt;
+&lt;p&gt;(d)	ensure the receptacle is not overloaded to more than the maximum weight for the receptacle;&lt;/p&gt;
+&lt;p&gt;(e)	comply with all Laws relating to the disposal of waste.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: 9. Notice of Accidents or Damage to Property</title>
+      <link>http://example.org/posts/9notice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/9notice/</guid>
+      <description>
+        
+        
+        &lt;p&gt;A Lot Owner and Occupier must notify the Owners Corporation promptly of:&lt;/p&gt;
+&lt;p&gt;(a)	any accident or death that may arise on Common Property;&lt;/p&gt;
+&lt;p&gt;(b)	any accident to or defect in any water pipes, gas pipes, electric installations, drainage pipes, fixtures or any other utility infrastructure; or&lt;/p&gt;
+&lt;p&gt;(c)	any damage to or breakage of Common Property which comes to the Lot Owners&amp;rsquo; or Occupiers&amp;rsquo; knowledge.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: Document Number 2</title>
+      <link>http://example.org/posts/doc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/doc2/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This is a link to &lt;a href=&#34;doc3.md&#34;&gt;another document.&lt;/a&gt; This is a link to an &lt;a href=&#34;http://www.example.com&#34;&gt;external page.&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: Manual</title>
+      <link>http://example.org/posts/24manual/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/24manual/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Incomplete&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: Powered by MDX</title>
+      <link>http://example.org/posts/mdx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mdx/</guid>
+      <description>
+        
+        
+        &lt;p&gt;You can write JSX and use React components within your Markdown thanks to &lt;a href=&#34;https://mdxjs.com/&#34;&gt;MDX&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;export const Highlight = ({children, color}) =&amp;gt; ( &amp;lt;span style={{
+backgroundColor: color,
+borderRadius: &amp;lsquo;2px&amp;rsquo;,
+color: &amp;lsquo;#fff&amp;rsquo;,
+padding: &amp;lsquo;0.2rem&amp;rsquo;,
+}}&amp;gt; {children} &lt;!-- raw HTML omitted --&gt; );&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Docusaurus green&lt;!-- raw HTML omitted --&gt; and &lt;!-- raw HTML omitted --&gt;Facebook blue&lt;!-- raw HTML omitted --&gt; are my favorite colors.&lt;/p&gt;
+&lt;p&gt;I can write &lt;strong&gt;Markdown&lt;/strong&gt; alongside my &lt;em&gt;JSX&lt;/em&gt;!&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: Style Guide</title>
+      <link>http://example.org/posts/doc1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/doc1/</guid>
+      <description>
+        
+        
+        &lt;p&gt;You can write content using &lt;a href=&#34;https://github.github.com/gfm/&#34;&gt;GitHub-flavored Markdown syntax&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;markdown-syntax&#34;&gt;Markdown Syntax&lt;/h2&gt;
+&lt;p&gt;To serve as an example page when styling markdown based Docusaurus sites.&lt;/p&gt;
+&lt;h2 id=&#34;headers&#34;&gt;Headers&lt;/h2&gt;
+&lt;h1 id=&#34;h1---create-the-best-documentation&#34;&gt;H1 - Create the best documentation&lt;/h1&gt;
+&lt;h2 id=&#34;h2---create-the-best-documentation&#34;&gt;H2 - Create the best documentation&lt;/h2&gt;
+&lt;h3 id=&#34;h3---create-the-best-documentation&#34;&gt;H3 - Create the best documentation&lt;/h3&gt;
+&lt;h4 id=&#34;h4---create-the-best-documentation&#34;&gt;H4 - Create the best documentation&lt;/h4&gt;
+&lt;h5 id=&#34;h5---create-the-best-documentation&#34;&gt;H5 - Create the best documentation&lt;/h5&gt;
+&lt;h6 id=&#34;h6---create-the-best-documentation&#34;&gt;H6 - Create the best documentation&lt;/h6&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h2&gt;
+&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Strong emphasis, aka bold, with &lt;strong&gt;asterisks&lt;/strong&gt; or &lt;strong&gt;underscores&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Combined emphasis with &lt;strong&gt;asterisks and &lt;em&gt;underscores&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Strikethrough uses two tildes. &lt;del&gt;Scratch this.&lt;/del&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;lists&#34;&gt;Lists&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;First ordered list item&lt;/li&gt;
+&lt;li&gt;Another item ⋅⋅* Unordered sub-list.&lt;/li&gt;
+&lt;li&gt;Actual numbers don&amp;rsquo;t matter, just that it&amp;rsquo;s a number ⋅⋅1. Ordered sub-list&lt;/li&gt;
+&lt;li&gt;And another item.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we&amp;rsquo;ll use three here to also align the raw Markdown).&lt;/p&gt;
+&lt;p&gt;⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅ ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅ ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Unordered list can use asterisks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Or minuses&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Or pluses&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.google.com&#34;&gt;I&amp;rsquo;m an inline-style link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.google.com&#34; title=&#34;Google&#39;s Homepage&#34;&gt;I&amp;rsquo;m an inline-style link with title&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mozilla.org&#34;&gt;I&amp;rsquo;m a reference-style link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../blob/master/LICENSE&#34;&gt;I&amp;rsquo;m a relative reference to a repository file&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://slashdot.org&#34;&gt;You can use numbers for reference-style link definitions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Or leave it empty and use the &lt;a href=&#34;http://www.reddit.com&#34;&gt;link text itself&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;URLs and URLs in angle brackets will automatically get turned into links. &lt;a href=&#34;http://www.example.com&#34;&gt;http://www.example.com&lt;/a&gt; or &lt;a href=&#34;http://www.example.com&#34;&gt;http://www.example.com&lt;/a&gt; and sometimes example.com (but not on Github, for example).&lt;/p&gt;
+&lt;p&gt;Some text to show that the reference links can follow later.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;images&#34;&gt;Images&lt;/h2&gt;
+&lt;p&gt;Here&amp;rsquo;s our logo (hover to see the title text):&lt;/p&gt;
+&lt;p&gt;Inline-style: &lt;img src=&#34;https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png&#34; alt=&#34;alt text&#34; title=&#34;Logo Title Text 1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Reference-style: &lt;img src=&#34;https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png&#34; alt=&#34;alt text&#34; title=&#34;Logo Title Text 2&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;s&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;JavaScript syntax highlighting&amp;#39;&lt;/span&gt;;
+&lt;span style=&#34;color:#a6e22e&#34;&gt;alert&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;s&lt;/span&gt;);
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;s &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Python syntax highlighting&amp;#34;&lt;/span&gt;
+&lt;span style=&#34;color:#66d9ef&#34;&gt;print&lt;/span&gt;(s)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;No language indicated, so no syntax highlighting.
+But let&#39;s throw in a &amp;lt;b&amp;gt;tag&amp;lt;/b&amp;gt;.
+&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;highlightMe&lt;/span&gt;() {
+  &lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;log&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;This line can be highlighted!&amp;#39;&lt;/span&gt;);
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;tables&#34;&gt;Tables&lt;/h2&gt;
+&lt;p&gt;Colons can be used to align columns.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Tables&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Are&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Cool&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;col 3 is&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;right-aligned&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;$1600&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;col 2 is&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;centered&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;$12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;zebra stripes&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;are neat&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;$1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;There must be at least 3 dashes separating each header cell. The outer pipes (|) are optional, and you don&amp;rsquo;t need to make the raw Markdown line up prettily. You can also use inline Markdown.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Markdown&lt;/th&gt;
+&lt;th&gt;Less&lt;/th&gt;
+&lt;th&gt;Pretty&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Still&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;renders&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;nicely&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;blockquotes&#34;&gt;Blockquotes&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Blockquotes are very handy in email to emulate reply text. This line is part of the same quote.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Quote break.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a very long line that will still be quoted properly when it wraps. Oh boy let&amp;rsquo;s keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can &lt;em&gt;put&lt;/em&gt; &lt;strong&gt;Markdown&lt;/strong&gt; into a blockquote.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;inline-html&#34;&gt;Inline HTML&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;line-breaks&#34;&gt;Line Breaks&lt;/h2&gt;
+&lt;p&gt;Here&amp;rsquo;s a line for us to start with.&lt;/p&gt;
+&lt;p&gt;This line is separated from the one above by two newlines, so it will be a &lt;em&gt;separate paragraph&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;This line is also a separate paragraph, but&amp;hellip; This line is only separated by a single newline, so it&amp;rsquo;s a separate line in the &lt;em&gt;same paragraph&lt;/em&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;admonitions&#34;&gt;Admonitions&lt;/h2&gt;
+&lt;p&gt;:::note&lt;/p&gt;
+&lt;p&gt;This is a note&lt;/p&gt;
+&lt;p&gt;:::&lt;/p&gt;
+&lt;p&gt;:::tip&lt;/p&gt;
+&lt;p&gt;This is a tip&lt;/p&gt;
+&lt;p&gt;:::&lt;/p&gt;
+&lt;p&gt;:::important&lt;/p&gt;
+&lt;p&gt;This is important&lt;/p&gt;
+&lt;p&gt;:::&lt;/p&gt;
+&lt;p&gt;:::caution&lt;/p&gt;
+&lt;p&gt;This is a caution&lt;/p&gt;
+&lt;p&gt;:::&lt;/p&gt;
+&lt;p&gt;:::warning&lt;/p&gt;
+&lt;p&gt;This is a warning&lt;/p&gt;
+&lt;p&gt;:::&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: This is Document Number 3</title>
+      <link>http://example.org/posts/doc3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/doc3/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+&lt;p&gt;Duis et egestas libero, imperdiet faucibus ipsum. Sed posuere eget urna vel feugiat. Vivamus a arcu sagittis, fermentum urna dapibus, congue lectus. Fusce vulputate porttitor nisl, ac cursus elit volutpat vitae. Nullam vitae ipsum egestas, convallis quam non, porta nibh. Morbi gravida erat nec neque bibendum, eu pellentesque velit posuere. Fusce aliquam erat eu massa eleifend tristique.&lt;/p&gt;
+&lt;p&gt;Sed consequat sollicitudin ipsum eget tempus. Integer a aliquet velit. In justo nibh, pellentesque non suscipit eget, gravida vel lacus. Donec odio ante, malesuada in massa quis, pharetra tristique ligula. Donec eros est, tristique eget finibus quis, semper non nisl. Vivamus et elit nec enim ornare placerat. Sed posuere odio a elit cursus sagittis.&lt;/p&gt;
+&lt;p&gt;Phasellus feugiat purus eu tortor ultrices finibus. Ut libero nibh, lobortis et libero nec, dapibus posuere eros. Sed sagittis euismod justo at consectetur. Nulla finibus libero placerat, cursus sapien at, eleifend ligula. Vivamus elit nisl, hendrerit ac nibh eu, ultrices tempus dui. Nam tellus neque, commodo non rhoncus eu, gravida in risus. Nullam id iaculis tortor.&lt;/p&gt;
+&lt;p&gt;Nullam at odio in sem varius tempor sit amet vel lorem. Etiam eu hendrerit nisl. Fusce nibh mauris, vulputate sit amet ex vitae, congue rhoncus nisl. Sed eget tellus purus. Nullam tempus commodo erat ut tristique. Cras accumsan massa sit amet justo consequat eleifend. Integer scelerisque vitae tellus id consectetur.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
