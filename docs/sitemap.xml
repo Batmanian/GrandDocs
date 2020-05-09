@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://batmanian.github.io/GrandDocs/</loc>
-    <lastmod>2020-05-09T21:11:42+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://batmanian.github.io/GrandDocs/posts/my-first-post/</loc>
-    <lastmod>2020-05-09T21:11:42+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://batmanian.github.io/GrandDocs/posts/</loc>
-    <lastmod>2020-05-09T21:11:42+10:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://batmanian.github.io/GrandDocs/posts/1definitions/</loc>
   </url>
   
@@ -118,7 +103,15 @@
   </url>
   
   <url>
+    <loc>https://batmanian.github.io/GrandDocs/</loc>
+  </url>
+  
+  <url>
     <loc>https://batmanian.github.io/GrandDocs/posts/24manual/</loc>
+  </url>
+  
+  <url>
+    <loc>https://batmanian.github.io/GrandDocs/posts/</loc>
   </url>
   
   <url>
