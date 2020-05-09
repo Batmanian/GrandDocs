@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Documentation site – Posts</title>
-    <link>http://example.org/posts/</link>
+    <link>https://batmanian.github.io/GrandDocs/posts/</link>
     <description>Recent content in Posts on Documentation site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <lastBuildDate>Sat, 09 May 2020 21:11:42 +1000</lastBuildDate>
     
-	  <atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://batmanian.github.io/GrandDocs/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Posts: My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/my-first-post/</link>
       <pubDate>Sat, 09 May 2020 21:11:42 +1000</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/my-first-post/</guid>
       <description>
         
         
@@ -30,10 +30,10 @@
     
     <item>
       <title>Posts: 1. Definitions and Interpretation</title>
-      <link>http://example.org/posts/1definitions/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/1definitions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/1definitions/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/1definitions/</guid>
       <description>
         
         
@@ -68,10 +68,10 @@
     
     <item>
       <title>Posts: 10. Contractors</title>
-      <link>http://example.org/posts/10contractors/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/10contractors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/10contractors/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/10contractors/</guid>
       <description>
         
         
@@ -87,10 +87,10 @@
     
     <item>
       <title>Posts: 11. Notification of Infectious Diseases</title>
-      <link>http://example.org/posts/11notification/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/11notification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/11notification/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/11notification/</guid>
       <description>
         
         
@@ -104,10 +104,10 @@
     
     <item>
       <title>Posts: 12. Owners Corporation Rules and Notices</title>
-      <link>http://example.org/posts/12ownerscorporationrules/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/12ownerscorporationrules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/12ownerscorporationrules/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/12ownerscorporationrules/</guid>
       <description>
         
         
@@ -128,10 +128,10 @@
     
     <item>
       <title>Posts: 13.	Retail / Commercial Lots</title>
-      <link>http://example.org/posts/13retail/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/13retail/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/13retail/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/13retail/</guid>
       <description>
         
         
@@ -152,10 +152,10 @@
     
     <item>
       <title>Posts: 14. Provision and Support of Services</title>
-      <link>http://example.org/posts/14provision/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/14provision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/14provision/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/14provision/</guid>
       <description>
         
         
@@ -184,10 +184,10 @@
     
     <item>
       <title>Posts: 15.	Storage of Bicycles and Personal Items</title>
-      <link>http://example.org/posts/15storage/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/15storage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/15storage/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/15storage/</guid>
       <description>
         
         
@@ -199,10 +199,10 @@
     
     <item>
       <title>Posts: 16. Fire and Smoke Control</title>
-      <link>http://example.org/posts/16fire/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/16fire/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/16fire/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/16fire/</guid>
       <description>
         
         
@@ -221,10 +221,10 @@
     
     <item>
       <title>Posts: 17. Owners Corporation Manager</title>
-      <link>http://example.org/posts/17ownerscorporationmanager/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/17ownerscorporationmanager/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/17ownerscorporationmanager/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/17ownerscorporationmanager/</guid>
       <description>
         
         
@@ -247,10 +247,10 @@
     
     <item>
       <title>Posts: 18. Notices and Compliance</title>
-      <link>http://example.org/posts/18notices/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/18notices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/18notices/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/18notices/</guid>
       <description>
         
         
@@ -293,10 +293,10 @@ An Occupier of a Lot:&lt;/p&gt;
     
     <item>
       <title>Posts: 19. Complaints and Dispute Resolution</title>
-      <link>http://example.org/posts/19complaints/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/19complaints/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/19complaints/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/19complaints/</guid>
       <description>
         
         
@@ -329,10 +329,10 @@ An Occupier of a Lot:&lt;/p&gt;
     
     <item>
       <title>Posts: 2. Rules and Laws</title>
-      <link>http://example.org/posts/2rules/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/2rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/2rules/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/2rules/</guid>
       <description>
         
         
@@ -363,10 +363,10 @@ An Occupier of a Lot:&lt;/p&gt;
     
     <item>
       <title>Posts: 20. GST payment</title>
-      <link>http://example.org/posts/20gst/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/20gst/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/20gst/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/20gst/</guid>
       <description>
         
         
@@ -377,10 +377,10 @@ An Occupier of a Lot:&lt;/p&gt;
     
     <item>
       <title>Posts: 21.	Heritage Victoria Requirements</title>
-      <link>http://example.org/posts/22heritage/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/22heritage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/22heritage/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/22heritage/</guid>
       <description>
         
         
@@ -398,10 +398,10 @@ An Occupier of a Lot:&lt;/p&gt;
     
     <item>
       <title>Posts: 22. Hotel Lots</title>
-      <link>http://example.org/posts/22hotel/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/22hotel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/22hotel/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/22hotel/</guid>
       <description>
         
         
@@ -416,10 +416,10 @@ An Occupier of a Lot:&lt;/p&gt;
     
     <item>
       <title>Posts: 23. Relocations, Deliveries, Tradespeople and Moving of Articles</title>
-      <link>http://example.org/posts/23relocations/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/23relocations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/23relocations/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/23relocations/</guid>
       <description>
         
         
@@ -437,10 +437,10 @@ An Occupier of a Lot:&lt;/p&gt;
     
     <item>
       <title>Posts: 3. Owner&#39;s Obligations</title>
-      <link>http://example.org/posts/3ownersobligations/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/3ownersobligations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/3ownersobligations/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/3ownersobligations/</guid>
       <description>
         
         
@@ -511,10 +511,10 @@ No person may in a Lot or on Common Property:&lt;/p&gt;
     
     <item>
       <title>Posts: 4. Alterations to Lots and Common Property</title>
-      <link>http://example.org/posts/4alterations/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/4alterations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/4alterations/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/4alterations/</guid>
       <description>
         
         
@@ -547,10 +547,10 @@ No person may in a Lot or on Common Property:&lt;/p&gt;
     
     <item>
       <title>Posts: 5. Vehicles and parking</title>
-      <link>http://example.org/posts/5vehicles/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/5vehicles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/5vehicles/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/5vehicles/</guid>
       <description>
         
         
@@ -583,10 +583,10 @@ No person may in a Lot or on Common Property:&lt;/p&gt;
     
     <item>
       <title>Posts: 6. Insurance</title>
-      <link>http://example.org/posts/7security/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/7security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/7security/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/7security/</guid>
       <description>
         
         
@@ -632,10 +632,10 @@ No person may in a Lot or on Common Property:&lt;/p&gt;
     
     <item>
       <title>Posts: 7. Security</title>
-      <link>http://example.org/posts/6insurance/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/6insurance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/6insurance/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/6insurance/</guid>
       <description>
         
         
@@ -654,10 +654,10 @@ No person may in a Lot or on Common Property:&lt;/p&gt;
     
     <item>
       <title>Posts: 8. Waste Collection</title>
-      <link>http://example.org/posts/8waste/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/8waste/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/8waste/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/8waste/</guid>
       <description>
         
         
@@ -673,10 +673,10 @@ No person may in a Lot or on Common Property:&lt;/p&gt;
     
     <item>
       <title>Posts: 9. Notice of Accidents or Damage to Property</title>
-      <link>http://example.org/posts/9notice/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/9notice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/9notice/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/9notice/</guid>
       <description>
         
         
@@ -690,10 +690,10 @@ No person may in a Lot or on Common Property:&lt;/p&gt;
     
     <item>
       <title>Posts: Document Number 2</title>
-      <link>http://example.org/posts/doc2/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/doc2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/doc2/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/doc2/</guid>
       <description>
         
         
@@ -704,10 +704,10 @@ No person may in a Lot or on Common Property:&lt;/p&gt;
     
     <item>
       <title>Posts: Manual</title>
-      <link>http://example.org/posts/24manual/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/24manual/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/24manual/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/24manual/</guid>
       <description>
         
         
@@ -718,10 +718,10 @@ No person may in a Lot or on Common Property:&lt;/p&gt;
     
     <item>
       <title>Posts: Powered by MDX</title>
-      <link>http://example.org/posts/mdx/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/mdx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mdx/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/mdx/</guid>
       <description>
         
         
@@ -740,10 +740,10 @@ padding: &amp;lsquo;0.2rem&amp;rsquo;,
     
     <item>
       <title>Posts: Style Guide</title>
-      <link>http://example.org/posts/doc1/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/doc1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/doc1/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/doc1/</guid>
       <description>
         
         
@@ -900,10 +900,10 @@ But let&#39;s throw in a &amp;lt;b&amp;gt;tag&amp;lt;/b&amp;gt;.
     
     <item>
       <title>Posts: This is Document Number 3</title>
-      <link>http://example.org/posts/doc3/</link>
+      <link>https://batmanian.github.io/GrandDocs/posts/doc3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/doc3/</guid>
+      <guid>https://batmanian.github.io/GrandDocs/posts/doc3/</guid>
       <description>
         
         
