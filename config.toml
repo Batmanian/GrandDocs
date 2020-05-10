@@ -1,5 +1,5 @@
 baseURL = "https://batmanian.github.io/GrandDocs/"
 languageCode = "en-au"
-title = "Documentation site"
+title = "Grand Central Apartments"
 theme = "ace"
 publishdir = "docs"
