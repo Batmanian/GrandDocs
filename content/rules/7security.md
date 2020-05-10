@@ -1,8 +1,8 @@
----
-id: insurance
-title: 6. Insurance
-sidebar_label: 6. Insurance
----
++++
+title = "7. Security"
+description = ""
+weight = 7
++++
 
 ## 7.1	Common Property Security
 (a)	The Owners Corporation may arrange and operate a security system to monitor the Land affected by the Owners Corporation.

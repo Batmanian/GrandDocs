@@ -1,8 +1,9 @@
----
-id: provision
-title: 14. Provision and Support of Services
-sidebar_label: 14. Provision and Support of Services
----
++++
+title = "14. Provision and Support of Services"
+description = ""
+weight = 14
++++
+
 
 ## 14.1	Provision of Services
 Lot Owners must not interfere with or modify any Building service, including but not limited to air conditioning, heating or ventilation systems or associated ducts or pipes, servicing Lot Owners' Lots, all Land affected by the Owners Corporation, the Building or Common Property without the prior written consent of the Owners Corporation.

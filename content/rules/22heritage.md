@@ -1,8 +1,9 @@
----
-id: heritage
-title: 21.	Heritage Victoria Requirements
-sidebar_label: 21.	Heritage Victoria Requirements
----
++++
+title = "21.	Heritage Victoria Requirements"
+description = ""
+weight = 21
++++
+
 
 (a)	The Owners Corporation shall take all action necessary or desirable to preserve, maintain and care for the Registered Place to the satisfaction of the Heritage Council.
 

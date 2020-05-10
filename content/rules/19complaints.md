@@ -1,8 +1,10 @@
----
-id: complaints
-title: 19. Complaints and Dispute Resolution
-sidebar_label: 19. Complaints and Dispute Resolution
----
++++
+title = "19. Complaints and Dispute Resolution"
+description = ""
+weight = 19
++++
+
+
 
 ## 19.1	Complaints
 (a)	Lot Owners, Occupiers and/or the Owners Corporation Manager may make a complaint with regard to any breach of these Rules or any applicable Laws and regulations by:

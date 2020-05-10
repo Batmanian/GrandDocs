@@ -1,8 +1,9 @@
----
-id: security
-title: 7. Security
-sidebar_label: 7 Security
----
++++
+title = "7. Security"
+description = ""
+weight = 7
++++
+
 
 ## 6.1	Restrictions
 A person must not bring to, do or keep anything on a Lot which:

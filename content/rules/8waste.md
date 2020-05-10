@@ -1,8 +1,10 @@
----
-id: waste
-title: 8. Waste Collection
-sidebar_label: 8. Waste Collection
----
+
++++
+title = "8. Waste Collection"
+description = ""
+weight = 8
++++
+
 
 Each Lot Owner and Occupier must:
 

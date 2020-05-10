@@ -1,8 +1,9 @@
----
-id: retail
-title: 13.	Retail / Commercial Lots
-sidebar_label: 13.	Retail / Commercial Lots
----
+
++++
+title = "13.	Retail / Commercial Lots"
+description = ""
+weight = 13
++++
 
 # 13.1	Planning Permit and Licences
 Retail / Commercial Lot applying for, and obtaining, any planning permit, liquor licence, or any retail or commercial legislative consent or permit which the Lot Owner or Occupier of any Retail / Commercial Lot may require, provided at all times the Lot Owner or Occupier of any such Retail / Commercial Lot:

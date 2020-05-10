@@ -1,8 +1,9 @@
----
-id: notice
-title: 9. Notice of Accidents or Damage to Property
-sidebar_label: 9. Notice of Accidents or Damage to Property
----
++++
+title = "9. Notice of Accidents or Damage to Property"
+description = ""
+weight = 9
++++
+
 
 A Lot Owner and Occupier must notify the Owners Corporation promptly of:
 

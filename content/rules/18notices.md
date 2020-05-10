@@ -1,8 +1,10 @@
----
-id: notices
-title: 18. Notices and Compliance
-sidebar_label: 18. Notices and Compliance
----
++++
+title = "18. Notices and Compliance"
+description = ""
+weight = 18
++++
+
+
 
 ## 18.1	Address of New Owners
 (a)	A Lot Owner who sells a Lot must advise the Owners Corporation of the name and address of the new owner within one month of the completion of the contract.

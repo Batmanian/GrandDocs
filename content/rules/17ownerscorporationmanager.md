@@ -1,8 +1,8 @@
----
-id: ownerscorporationmanager
-title: 17. Owners Corporation Manager
-sidebar_label: 17. Owners Corporation Manager
----
++++
+title = "17. Owners Corporation Manager"
+description = ""
+weight = 17
++++
 
 ## 17.1	Owners Corporation Manager
 (a)	If the Owners Corporation has appointed an Owners Corporation Manager and given notice of that appointment to a Lot Owner, the Lot Owner is entitled to and must assume that the Owners Corporation Manager is entitled to take any action on behalf of the Owners Corporation under these Rules.

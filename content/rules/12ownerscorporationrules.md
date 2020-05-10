@@ -1,8 +1,9 @@
----
-id: ownerscorporationrules
-title: 12. Owners Corporation Rules and Notices
-sidebar_label: 12. Owners Corporation Rules and Notices
----
++++
+title = "12. Owners Corporation Rules and Notices"
+description = ""
+weight = 12
++++
+
 
 ## 12.1	Notices to be Observed
 Each Lot Owner and Occupier must observe the terms of any notice displayed on any part of Common Property by authority of the Owners Corporation or of any statutory authority.

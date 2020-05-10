@@ -1,8 +1,8 @@
----
-id: rules
-title: 2. Rules and Laws
-sidebar_label: 2. Rules and Laws
----
++++
+title = "2. Rules and Laws"
+description = ""
+weight = 2
++++
 
 ## 2.1	Rules	
 (a)	These Rules exist for the purpose of controlling, managing and administering the use and enjoyment of Common Property and Lots.

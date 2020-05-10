@@ -1,8 +1,9 @@
----
-id: ownersobligations
-title: 3. Owner's Obligations
-sidebar_label: 3. Owner's Obligations
----
++++
+title = "3. Owner's Obligations"
+description = ""
+weight = 3
++++
+
 
 ## 3.1	Use of Lot
 

@@ -1,8 +1,8 @@
----
-id: contractors
-title: 10. Contractors
-sidebar_label: 10. Contractors
----
++++
+title = "10. Contractors"
+description = ""
+weight = 10
++++
 
 ## 10.1	No Instruction
 Lot Owners and Occupiers must not directly instruct any contractors or workers employed by the Owners Corporation unless specifically authorised to do so.

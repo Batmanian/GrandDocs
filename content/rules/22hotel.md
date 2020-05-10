@@ -1,8 +1,9 @@
----
-id: hotel
-title: 22. Hotel Lots
-sidebar_label: 22. Hotel Lots
----
++++
+title = "22. Hotel Lots"
+description = ""
+weight = 22
++++
+
 
 (a)	The Hotel for the time being shall have unrestricted access to Common Property (including any exclusive use areas and special privilege areas referred to in these rules) for the purpose of the Hotel properly and effectively exercising its rights and obligations under the Liquor Act (or any other relevant statute) for the purpose of carrying on the business of a licensed restaurant, bar, liquor shop, hotel and providing a mini bar and room service to Lot Owners or Occupiers of other Lots in the Building.
  

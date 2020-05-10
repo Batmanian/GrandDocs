@@ -1,8 +1,9 @@
----
-id: relocations
-title: 23. Relocations, Deliveries, Tradespeople and Moving of Articles
-sidebar_label: 23. Relocations, Deliveries, Tradespeople and Moving of Articles
----
++++
+title = "23. Relocations, Deliveries, Tradespeople and Moving of Articles"
+description = ""
+weight = 23
++++
+
 
 A Lot Owner must not, and must ensure that the Occupier of a Lot does not:
 

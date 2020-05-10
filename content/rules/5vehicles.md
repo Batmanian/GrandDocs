@@ -1,8 +1,9 @@
----
-id: vehicles
-title: 5. Vehicles and parking
-sidebar_label: 5. Vehicles and parking
----
++++
+title = "5. Vehicles and parking"
+description = ""
+weight = 5
++++
+
 
 (a)	Lot Owners and Occupiers must not, and must ensure that its guest(s) or invitee(s) do not, unless in the case of an emergency:
 

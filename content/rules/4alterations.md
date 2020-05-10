@@ -1,8 +1,8 @@
----
-id: alterations
-title: 4. Alterations to Lots and Common Property
-sidebar_label: 4. Alterations to Lots and Common Property
----
++++
+title = "4. Alterations to Lots and Common Property"
+description = ""
+weight = 4
++++
 
 ## 4.1	Alterations to services to Lots
 Lot Owners and Occupiers may not without the prior written consent of the Owners Corporation alter gas, water, drainage, septic, sewerage, electrical or any other utility connections and services to a Lot.

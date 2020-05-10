@@ -1,8 +1,8 @@
----
-id: definitions
-title: 1. Definitions and Interpretation
-sidebar_label: 1. Definitions and Interpretation
----
++++
+title = "1. Definitions and Interpretation"
+description = ""
+weight = 1
++++
 
 ## 1.1	Definitions
 

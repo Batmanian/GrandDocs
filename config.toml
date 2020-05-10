@@ -3,3 +3,12 @@ languageCode = "en-au"
 title = "Grand Central Apartments"
 theme = "ace"
 publishdir = "docs"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "This is the blog section"
+    title = "blog section"
+    url = "/blog/"
+    weight = -110

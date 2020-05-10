@@ -1,8 +1,9 @@
----
-id: fire
-title: 16. Fire and Smoke Control
-sidebar_label: 16. Fire and Smoke Control
----
++++
+title = "16. Fire and Smoke Control"
+description = ""
+weight = 16
++++
+
 
 (a)	Lot Owners and Occupiers must not:
 
