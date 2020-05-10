@@ -3,12 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://batmanian.github.io/GrandDocs/</loc>
-    <priority>0</priority>
+    <loc>https://batmanian.github.io/GrandDocs/rules/1definitions/</loc>
   </url>
   
   <url>
-    <loc>https://batmanian.github.io/GrandDocs/rules/1definitions/</loc>
+    <loc>https://batmanian.github.io/GrandDocs/rules/2rules/</loc>
+  </url>
+  
+  <url>
+    <loc>https://batmanian.github.io/GrandDocs/rules/3ownersobligations/</loc>
+  </url>
+  
+  <url>
+    <loc>https://batmanian.github.io/GrandDocs/rules/4alterations/</loc>
+  </url>
+  
+  <url>
+    <loc>https://batmanian.github.io/GrandDocs/rules/5vehicles/</loc>
+  </url>
+  
+  <url>
+    <loc>https://batmanian.github.io/GrandDocs/rules/6insurance/</loc>
+  </url>
+  
+  <url>
+    <loc>https://batmanian.github.io/GrandDocs/rules/7security/</loc>
+  </url>
+  
+  <url>
+    <loc>https://batmanian.github.io/GrandDocs/rules/8waste/</loc>
+  </url>
+  
+  <url>
+    <loc>https://batmanian.github.io/GrandDocs/rules/9notice/</loc>
   </url>
   
   <url>
@@ -52,10 +79,6 @@
   </url>
   
   <url>
-    <loc>https://batmanian.github.io/GrandDocs/rules/2rules/</loc>
-  </url>
-  
-  <url>
     <loc>https://batmanian.github.io/GrandDocs/rules/20gst/</loc>
   </url>
   
@@ -72,31 +95,11 @@
   </url>
   
   <url>
-    <loc>https://batmanian.github.io/GrandDocs/rules/3ownersobligations/</loc>
+    <loc>https://batmanian.github.io/GrandDocs/rules/24changelog/</loc>
   </url>
   
   <url>
-    <loc>https://batmanian.github.io/GrandDocs/rules/4alterations/</loc>
-  </url>
-  
-  <url>
-    <loc>https://batmanian.github.io/GrandDocs/rules/5vehicles/</loc>
-  </url>
-  
-  <url>
-    <loc>https://batmanian.github.io/GrandDocs/rules/7security/</loc>
-  </url>
-  
-  <url>
-    <loc>https://batmanian.github.io/GrandDocs/rules/6insurance/</loc>
-  </url>
-  
-  <url>
-    <loc>https://batmanian.github.io/GrandDocs/rules/8waste/</loc>
-  </url>
-  
-  <url>
-    <loc>https://batmanian.github.io/GrandDocs/rules/9notice/</loc>
+    <loc>https://batmanian.github.io/GrandDocs/about/</loc>
   </url>
   
   <url>
@@ -104,7 +107,7 @@
   </url>
   
   <url>
-    <loc>https://batmanian.github.io/GrandDocs/rules/24manual/</loc>
+    <loc>https://batmanian.github.io/GrandDocs/</loc>
   </url>
   
   <url>
