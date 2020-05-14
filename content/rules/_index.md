@@ -1,7 +1,7 @@
 +++
 title = "Rules"
 description = ""
-weight = 0
+weight = 2
 +++
 
 About these rules
