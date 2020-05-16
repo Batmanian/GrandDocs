@@ -1,7 +1,7 @@
 +++
 title = "Manual"
 description = ""
-weight = 0
+weight = 3
 +++
 
 About this manual
