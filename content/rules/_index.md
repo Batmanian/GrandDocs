@@ -1,5 +1,5 @@
 +++
-title = "Rules"
+title = "Rules for residents"
 description = ""
 weight = 2
 +++
