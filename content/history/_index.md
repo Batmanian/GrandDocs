@@ -10,7 +10,7 @@ weight = 1
 
 The building was opened in 1893 and was the largest office building in the city, reflecting the size of the Railways and the 'boom' of the 1880s. In 1886, the Victorian Railway Commissioners, considering their existing timber offices were inadequate, determined to erect a building that would provide a central location for various branch offices in the city. Designs were prepared by James Moore formerly of the Melbourne & Hobson's Bay Railway Company, and a contract was signed in September 1888. Funds to £25,000 were allocated in the Loan Act of 1887 for the building, with subsequent allocations taking the total to £132,000 including furnishings. Originally to be built of bluestone, due to high cost brickwork with stucco was used instead.
 
-![1893 Facade drawing](02_1893_facade_drawing.JPG)
+![1893 Facade drawing](02_1893_facade_drawing.png)
 
 The building is of a shallow U shape, with a 420 feet (130 m) frontage onto Spencer Street. The siting was such that the building would not interfere with the Flinders Street Viaduct, which was yet to be built. The building is symmetrical in plan, with the Spencer Street facade divided into five bays. The central bay projects slightly, incorporating the main entrance with heavy banded rustication, and led into the main staircase, 50 ft by 60 ft (15.25 m by 18.28 m) and lit by three windows with the 'VR' insignia.
 
