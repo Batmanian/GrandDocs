@@ -34,4 +34,53 @@ Telephone and internet services are matters for each resident to contract separa
  
 ## 6.8.	Television and radio
 Free-to-air broadcast television and radio is supplied to each residential apartment via a central cable distribution network. Available channels are listed in Tables 3 ~ 5.
-Table 3 – Broadcast analogue television channels
+
+#### Table 3 – Broadcast analogue television channels
+
+||||||
+|--- |--- |--- |--- |--- |
+|Channel|Name||Channel|Name|
+|1|C42 ABC||2|C43 7|
+|3|C44 9||4|C45 10|
+|5|C46 SBS||||
+
+#### Table 4 – Broadcast digital television channels
+
+||||||
+|--- |--- |--- |--- |--- |
+|Channel|Name||Channel|Name|
+|1|10 Bold||2|ABC|
+|3|SBS ONE||7|7 Melbourne|
+|9|Channel 9 Melbourne||10|10|
+|11|10 Peach||12|10 BOLD|
+|13|10 HD||14|TVSN|
+|15|SpreeTV||20|ABC HD|
+|21|ABC||22|ABCComedy/Kids|
+|23|ABC ME||24|ABC News|
+|30|SBS ONE HD||31|SBS VICELAND HD|
+|32|SBS World Movies||33|SBS Food|
+|34|NITV||70|7HD Melbourne|
+|71|7 Melbourne||72|7TWO Melbourne|
+|73|7mate Melbourne||74|7food network|
+|75|Openshop||76|7flix Melbourne|
+|78|RACING.COM||90|9HD Melbourne|
+|91|Channel 9 Melbourne||92|9Gem Melbourne|
+|93|9Go! Melbourne||94|9Life Melbourne|
+|95|9Gem HD Melbourne||99|9Go! Melbourne|
+
+#### Table 5 – Broadcast radio channels
+
+||||||
+|--- |--- |--- |--- |--- |
+|Channel|Name||Channel|Name|
+|25|ABC MELBOURNE||26|ABC RN|
+|27|ABC Classic||28|Triple j|
+|29|Triple j Unearthed||36|SBS Arabic24|
+|37|SBS Radio 1||38|SBS Radio 2|
+|39|SBS Chill||200|Double J|
+|201|ABC Jazz||202|ABC KIDS Listen|
+|203|ABC Country||204|ABC NewsRadio|
+|301|SBS Radio 1||302|SBS Radio 2|
+
+
+
