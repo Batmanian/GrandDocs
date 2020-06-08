@@ -27,7 +27,31 @@
     <link rel="stylesheet" href="https://grandcentral.org.au/css/ace.min.css">
 
     
-
+    <script>
+        
+        if(("standalone" in window.navigator) && window.navigator.standalone){
+        
+            
+            var noddy, remotes = false;
+        
+            document.addEventListener('click', function(event) {
+        
+                noddy = event.target;
+        
+                
+                while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+                    noddy = noddy.parentNode;
+                }
+        
+                if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes))
+                {
+                    event.preventDefault();
+                    document.location.href = noddy.href;
+                }
+        
+            },false);
+        }
+        </script>
 </head><body><nav class="navbar navbar-expand-lg navbar-dark bg-grandgreen shadow sticky-top" id="navbarMain">
     <div class="container">
         <div>
@@ -62,7 +86,7 @@
     <li data-nav-id="/manual/" class="nav-item my-1 haschildren
         ">
         
-        <a class="nav-link p-0" href="/manual/"><h6>Residents&#39; Manual</h6></a>
+        <a class="nav-link p-0" href="/manual/"><h6>Owners &amp; residents&#39; manual</h6></a>
         <ul class="list-unstyled ml-2">
         <li data-nav-id="/manual/introduction/" class="nav-item my-1">
                 
@@ -183,7 +207,7 @@
     <li data-nav-id="/rules/" class="nav-item my-1 haschildren
         ">
         
-        <a class="nav-link p-0" href="/rules/"><h6>Rules for residents</h6></a>
+        <a class="nav-link p-0" href="/rules/"><h6>Rules for owners and residents</h6></a>
         <ul class="list-unstyled ml-2">
         <li data-nav-id="/rules/1definitions/" class="nav-item my-1">
                 
@@ -334,7 +358,7 @@
     <li data-nav-id="/forms/" class="nav-item my-1
         ">
         
-        <a class="nav-link p-0" href="/forms/"><h6>Forms for Download</h6></a>
+        <a class="nav-link p-0" href="/forms/"><h6>Downloads</h6></a>
     </li>
         </ul>
     </div>
@@ -370,28 +394,44 @@
 <p><img src="Intersection-of-Flinders-and-Spencer-Streets-showing-the-Spencer-Street-Railway-Building-and-the-old-Fish-Market.jpg" alt="Intersection-of-Flinders-and-Spencer-Streets-showing-the-Spencer-Street-Railway-Building-and-the-old-Fish-Market"></p>
 <p>By the 1980s the Victorian Railways had broken up into the Ministry of Transport, the Metropolitan Transit Authority, and the State Transport Authority. In 1985 Transport House at 589 Collins Street was acquired and 67 Spencer Street was vacated. The Victorian Government sold the building by tender in 1988 for $5.2 million, to a development company and a Japanese financier who proposed a 217-room hotel and 158 car parks, but the deal fell through when the Japanese financier pulled out.</p>
 <p>In 1989 Melbourne&rsquo;s Greek community offered to buy the building for $7.9 million, but again the contract fell through. The mortgage owner put the building to auction in September 1990 but no sale was made. The building was originally sold in March 1993 for A$2.5 million for conversion to residential apartments. It was not until October 1997 that the redevelopment completed into 240 apartments, half forming the All Seasons Grand Hotel. As well as restoring the building, a swimming pool and multilevel car park was built at the rear of the building.</p>
-<p><!-- raw HTML omitted -->This text modified and updated from Wikipedia contributors. (2019, December 8) Wikipedia, The Free Encyclopedia. Retrieved 02:04, June 6, 2020, from <a href="https://en.wikipedia.org/w/index.php?title=67_Spencer_Street">67 Spencer Street</a><!-- raw HTML omitted --></p>
+<p><!-- raw HTML omitted -->This text modified and updated from Wikipedia contributors. (2019, December 8) Wikipedia, The Free Encyclopedia. Retrieved 02:04, June 6, 2020, from <a href="https://en.wikipedia.org/w/index.php?title=67_Spencer_Street" target="_blank">67 Spencer Street</a>
+<!-- raw HTML omitted --></p>
 <h2 id="more-resources">More resources:</h2>
 <h4 id="heritage-resources">Heritage resources</h4>
 <ul>
-<li><a href="http://vhd.heritage.vic.gov.au/search/nattrust_result_detail/65592">National Trust</a></li>
-<li><a href="https://vhd.heritagecouncil.vic.gov.au/places/800">Heritage Victoria</a></li>
+<li><a href="http://vhd.heritage.vic.gov.au/search/nattrust_result_detail/65592" target="_blank">National Trust</a>
+</li>
+<li><a href="https://vhd.heritagecouncil.vic.gov.au/places/800" target="_blank">Heritage Victoria</a>
+</li>
 </ul>
 <h4 id="related-items-in-the-state-library-victoria-collection">Related items in the State Library Victoria collection</h4>
 <ul>
-<li><a href="http://search.slv.vic.gov.au/permalink/f/cjahgv/SLV_VOYAGER1657943">Spencer Street Bridge under construction</a></li>
-<li><a href="http://search.slv.vic.gov.au/permalink/f/cjahgv/SLV_VOYAGER3378383">Aerial view of Melbourne looking east from Spencer Street, Victoria / C. D. Pratt.</a></li>
-<li><a href="http://search.slv.vic.gov.au/permalink/f/cjahgv/SLV_VOYAGER1653827">Spencer Street near intersection with Flinders Street, Melbourne, showing railway tracks</a></li>
-<li><a href="http://search.slv.vic.gov.au/permalink/f/cjahgv/SLV_VOYAGER1804777">New Railway offices, Melbourne</a></li>
-<li><a href="http://search.slv.vic.gov.au/permalink/f/cjahgv/SLV_VOYAGER1654062">Spencer Street, looking south showing construction of Spencer Street Bridge</a></li>
-<li><a href="http://search.slv.vic.gov.au/permalink/f/cjahgv/SLV_VOYAGER1683115">Offices, Spencer Street, Melbourne</a></li>
-<li><a href="http://search.slv.vic.gov.au/permalink/f/cjahgv/SLV_VOYAGER1683757">Spencer Street, Melbourne.</a></li>
-<li><a href="http://search.slv.vic.gov.au/permalink/f/cjahgv/SLV_VOYAGER1777607">The railway station offices at Spencer-Street: the Commissioner&rsquo;s plans.</a></li>
-<li><a href="http://search.slv.vic.gov.au/permalink/f/cjahgv/SLV_VOYAGER1673032">Aerial view of the central business district of Melbourne looking to the east from Spencer Street Station railyards</a></li>
-<li><a href="http://search.slv.vic.gov.au/permalink/f/cjahgv/SLV_VOYAGER1777745">A great Australian railway terminus, - Spencer-Street yard</a></li>
-<li><a href="http://search.slv.vic.gov.au/permalink/f/cjahgv/SLV_VOYAGER1788015">Spencer Street Bridge - General views</a></li>
-<li><a href="http://search.slv.vic.gov.au/permalink/f/cjahgv/SLV_VOYAGER2565279">Railway offices, Melbourne</a></li>
-<li><a href="">Intersection of Flinders and Spencer Streets, showing the Spencer Street Railway Building and the old Fish Market</a></li>
+<li><a href="http://search.slv.vic.gov.au/permalink/f/cjahgv/SLV_VOYAGER1657943" target="_blank">Spencer Street Bridge under construction</a>
+</li>
+<li><a href="http://search.slv.vic.gov.au/permalink/f/cjahgv/SLV_VOYAGER3378383" target="_blank">Aerial view of Melbourne looking east from Spencer Street, Victoria / C. D. Pratt.</a>
+</li>
+<li><a href="http://search.slv.vic.gov.au/permalink/f/cjahgv/SLV_VOYAGER1653827" target="_blank">Spencer Street near intersection with Flinders Street, Melbourne, showing railway tracks</a>
+</li>
+<li><a href="http://search.slv.vic.gov.au/permalink/f/cjahgv/SLV_VOYAGER1804777" target="_blank">New Railway offices, Melbourne</a>
+</li>
+<li><a href="http://search.slv.vic.gov.au/permalink/f/cjahgv/SLV_VOYAGER1654062" target="_blank">Spencer Street, looking south showing construction of Spencer Street Bridge</a>
+</li>
+<li><a href="http://search.slv.vic.gov.au/permalink/f/cjahgv/SLV_VOYAGER1683115" target="_blank">Offices, Spencer Street, Melbourne</a>
+</li>
+<li><a href="http://search.slv.vic.gov.au/permalink/f/cjahgv/SLV_VOYAGER1683757" target="_blank">Spencer Street, Melbourne.</a>
+</li>
+<li><a href="http://search.slv.vic.gov.au/permalink/f/cjahgv/SLV_VOYAGER1777607" target="_blank">The railway station offices at Spencer-Street: the Commissioner&amp;rsquo;s plans.</a>
+</li>
+<li><a href="http://search.slv.vic.gov.au/permalink/f/cjahgv/SLV_VOYAGER1673032" target="_blank">Aerial view of the central business district of Melbourne looking to the east from Spencer Street Station railyards</a>
+</li>
+<li><a href="http://search.slv.vic.gov.au/permalink/f/cjahgv/SLV_VOYAGER1777745" target="_blank">A great Australian railway terminus, - Spencer-Street yard</a>
+</li>
+<li><a href="http://search.slv.vic.gov.au/permalink/f/cjahgv/SLV_VOYAGER1788015" target="_blank">Spencer Street Bridge - General views</a>
+</li>
+<li><a href="http://search.slv.vic.gov.au/permalink/f/cjahgv/SLV_VOYAGER2565279" target="_blank">Railway offices, Melbourne</a>
+</li>
+<li><a href="">Intersection of Flinders and Spencer Streets, showing the Spencer Street Railway Building and the old Fish Market</a>
+</li>
 </ul>
 <p>This is an incomplete list.</p>
 <h4 id="image-credits-on-this-page">Image credits (on this page)</h4>
@@ -412,10 +452,10 @@
                         <div class="position-relative mx-auto col-lg-9">
                           <div class="outline overflow-hidden p-3 mt-5 ">
 <hr>
-    <p class="text-center">Read more:</p>
+    <p class="text-center">Navigation</p>
 
     <div class="d-flex justify-content-center no-underline"><a class="btn btn-outline-success p-1 mr-3 d-inline-block " href="/about/" title="About"> <i class="fas fa-arrow-left"></i>  About</a>
-            <a class="btn btn-outline-success p-1 ml-3 d-inline-block  text-right" href="/manual/" title="Residents&#39; Manual">Residents&#39; Manual  <i class="fas fa-arrow-right"></i></a></div>
+            <a class="btn btn-outline-success p-1 ml-3 d-inline-block  text-right" href="/manual/" title="Owners &amp; residents&#39; manual">Owners &amp; residents&#39; manual  <i class="fas fa-arrow-right"></i></a></div>
 </div>
 
                         </div>

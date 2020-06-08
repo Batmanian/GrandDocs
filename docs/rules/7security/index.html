@@ -27,7 +27,31 @@
     <link rel="stylesheet" href="https://grandcentral.org.au/css/ace.min.css">
 
     
-
+    <script>
+        
+        if(("standalone" in window.navigator) && window.navigator.standalone){
+        
+            
+            var noddy, remotes = false;
+        
+            document.addEventListener('click', function(event) {
+        
+                noddy = event.target;
+        
+                
+                while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+                    noddy = noddy.parentNode;
+                }
+        
+                if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes))
+                {
+                    event.preventDefault();
+                    document.location.href = noddy.href;
+                }
+        
+            },false);
+        }
+        </script>
 </head><body><nav class="navbar navbar-expand-lg navbar-dark bg-grandgreen shadow sticky-top" id="navbarMain">
     <div class="container">
         <div>
@@ -62,7 +86,7 @@
     <li data-nav-id="/manual/" class="nav-item my-1 haschildren
         ">
         
-        <a class="nav-link p-0" href="/manual/"><h6>Residents&#39; Manual</h6></a>
+        <a class="nav-link p-0" href="/manual/"><h6>Owners &amp; residents&#39; manual</h6></a>
         <ul class="list-unstyled ml-2">
         <li data-nav-id="/manual/introduction/" class="nav-item my-1">
                 
@@ -183,7 +207,7 @@
     <li data-nav-id="/rules/" class="nav-item my-1 parent haschildren
         ">
         
-        <a class="nav-link p-0" href="/rules/"><h6>Rules for residents</h6></a>
+        <a class="nav-link p-0" href="/rules/"><h6>Rules for owners and residents</h6></a>
         <ul class="list-unstyled ml-2">
         <li data-nav-id="/rules/1definitions/" class="nav-item my-1">
                 
@@ -334,7 +358,7 @@
     <li data-nav-id="/forms/" class="nav-item my-1
         ">
         
-        <a class="nav-link p-0" href="/forms/"><h6>Forms for Download</h6></a>
+        <a class="nav-link p-0" href="/forms/"><h6>Downloads</h6></a>
     </li>
         </ul>
     </div>
@@ -407,7 +431,7 @@
                         <div class="position-relative mx-auto col-lg-9">
                           <div class="outline overflow-hidden p-3 mt-5 ">
 <hr>
-    <p class="text-center">Read more:</p>
+    <p class="text-center">Navigation</p>
 
     <div class="d-flex justify-content-center no-underline"><a class="btn btn-outline-success p-1 mr-3 d-inline-block " href="/rules/6insurance/" title="7. Security"> <i class="fas fa-arrow-left"></i>  7. Security</a>
             <a class="btn btn-outline-success p-1 ml-3 d-inline-block  text-right" href="/rules/8waste/" title="8. Waste Collection">8. Waste Collection  <i class="fas fa-arrow-right"></i></a></div>
