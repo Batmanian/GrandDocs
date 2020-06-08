@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+// Colours and variables
+
+$grand-green: #1b4d3e; //Brunswick Green
+$grand-stone: #e3d6c2; //Portland stone
+
 // Variables
 //
 // Variables should follow the `$component-state-property-size` formula for
@@ -41,7 +49,7 @@ $pink:    #e83e8c !default;
 $red:     #dc3545 !default;
 $orange:  #fd7e14 !default;
 $yellow:  #ffc107 !default;
-$green:   #28a745 !default;
+$green:   $grand-green !default;
 $teal:    #20c997 !default;
 $cyan:    #17a2b8 !default;
 

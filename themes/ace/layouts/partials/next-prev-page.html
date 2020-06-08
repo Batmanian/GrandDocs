@@ -1,6 +1,6 @@
 <div class="outline overflow-hidden p-3 mt-5 ">
 
-    <p class="lead text-center">Read more:</h4>
+    <p class="text-center">Read more:</p>
 
     <!-- Next prev page -->
     {{- $currentNode := . -}}
@@ -35,13 +35,13 @@
         {{- end -}}
     {{- end -}}
 
-    <div class="d-flex justify-content-center">
+    <div class="d-flex justify-content-center no-underline">
         {{- if not $.Site.Params.disableNavChevron -}}
             {{- with ($.Scratch.Get "prevPage") -}}
-                <a class="p-1 mr-3 d-inline-block " href="{{.RelPermalink}}" title="{{.Title}}"> <i class="fas fa-chevron-left"></i> {{.Title}}</a>
+                <a class="btn btn-outline-success p-1 mr-3 d-inline-block " href="{{.RelPermalink}}" title="{{.Title}}"> <i class="fas fa-arrow-left"></i>  {{.Title}}</a>
             {{ end -}}
             {{- with ($.Scratch.Get "nextPage") -}}
-                <a class="p-1 ml-3 d-inline-block  text-right" href="{{.RelPermalink}}" title="{{.Title}}">{{.Title}} <i class="fas fa-chevron-right"></i></a>
+                <a class="btn btn-outline-success p-1 ml-3 d-inline-block  text-right" href="{{.RelPermalink}}" title="{{.Title}}">{{.Title}}  <i class="fas fa-arrow-right"></i></a>
             {{- end }}
         {{- end -}}
     </div>
